@@ -6,21 +6,22 @@ A GitHub Actions-powered scraper for the GTA V tunables file.
 
 The tunables file, originally known as `tunables.json` and now
 `0x1a098062.json`, is used to configure global properties in the otherwise
-peer-to-peer GTA Online. Each game platform has a distinct version of the
-tunables files, and they are mainly used to toggle features like seasonal
-effects and adjust game objectives. It is streamed as an encrypted file to
-players when connecting to an online lobby.
+peer-to-peer game of GTA Online. The tunables are mainly used to toggle
+features like seasonal effects and adjust game objectives, though
+[the PC tunables file is also used to distribute anti-cheat configurations](https://github.com/yubie-re/gtav-sigscan).
+The tunables file is streamed to players as an encrypted blob when they
+initiate an online connection.
 
 This repo is automatically updated every hour and tracks changes to the
 tunables file for each platform:
 
 - PC: [`tunables-pcros.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-pcros.json) (last updated `2022-04-29T08-27-16` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-pcros.md))
-- Xbox 360: [`tunables-xbox360.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xbox360.json) (last updated `2019-12-05T23-32-04`)
-- Xbox One: [`tunables-xboxone.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxone.json) (last updated `2022-04-29T08-27-56` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxone.md))
 - Xbox Series X: [`tunables-xboxsx.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxsx.json) (last updated `2022-04-28T08-20-09` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxsx.md))
-- PS3: [`tunables-ps3.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps3.json) (last updated `2019-12-05T23-30-17`)
-- PS4: [`tunables-ps4.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps4.json) (last updated `2022-04-29T08-27-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps4.md))
+- Xbox One: [`tunables-xboxone.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxone.json) (last updated `2022-04-29T08-27-56` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxone.md))
+- Xbox 360: [`tunables-xbox360.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xbox360.json) (last updated `2019-12-05T23-32-04`)
 - PS5: [`tunables-ps5.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps5.json) (last updated `2022-04-28T08-20-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps5.md))
+- PS4: [`tunables-ps4.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps4.json) (last updated `2022-04-29T08-27-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps4.md))
+- PS3: [`tunables-ps3.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps3.json) (last updated `2019-12-05T23-30-17`)
 
 Historical entries can be found in [`history/`](https://github.com/branw/gta-v-tunables-tracker/blob/main/history).
 
