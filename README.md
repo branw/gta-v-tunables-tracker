@@ -5,8 +5,11 @@ A GitHub Actions-powered scraper for the GTA V tunables file.
 ---
 
 The tunables file, originally known as `tunables.json` and now
-`0x1a098062.json`, is used to send global configuration data to players
-in the otherwise peer-to-peer GTA Online. 
+`0x1a098062.json`, is used to configure global properties in the otherwise
+peer-to-peer GTA Online. Each game platform has a distinct version of the
+tunables files, and they are mainly used to toggle features like seasonal
+effects and adjust game objectives. It is streamed as an encrypted file to
+players when connecting to an online lobby.
 
 This repo is automatically updated every hour and tracks changes to the
 tunables file for each platform:
@@ -17,9 +20,9 @@ tunables file for each platform:
 - Xbox Series X: [`tunables-xboxsx.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxsx.json) (last updated `2022-04-28T08-20-09` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxsx.md))
 - PS3: [`tunables-ps3.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps3.json) (last updated `2019-12-05T23-30-17`)
 - PS4: [`tunables-ps4.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps4.json) (last updated `2022-04-29T08-27-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps4.md))
-- PS5: [`tunables-ps5.json`](https://ps4.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps5.json) (last updated `2022-04-28T08-20-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps5.md))
+- PS5: [`tunables-ps5.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps5.json) (last updated `2022-04-28T08-20-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps5.md))
 
-Historical entries can be found in [`history/`](https://ps4.com/branw/gta-v-tunables-tracker/blob/main/history).
+Historical entries can be found in [`history/`](https://github.com/branw/gta-v-tunables-tracker/blob/main/history).
 
 ## License
 
