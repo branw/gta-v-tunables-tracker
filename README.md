@@ -15,15 +15,20 @@ initiate an online connection.
 This repo is automatically updated every hour and tracks changes to the
 tunables file for each platform:
 
-- PC: [`tunables-pcros.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-pcros.json) (last updated `2022-04-29T08-27-16` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-pcros.md))
-- Xbox Series X: [`tunables-xboxsx.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxsx.json) (last updated `2022-04-28T08-20-09` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxsx.md))
-- Xbox One: [`tunables-xboxone.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxone.json) (last updated `2022-04-29T08-27-56` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxone.md))
-- Xbox 360: [`tunables-xbox360.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xbox360.json) (last updated `2019-12-05T23-32-04`)
-- PS5: [`tunables-ps5.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps5.json) (last updated `2022-04-28T08-20-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps5.md))
-- PS4: [`tunables-ps4.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps4.json) (last updated `2022-04-29T08-27-26` - [changelog](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps4.md))
-- PS3: [`tunables-ps3.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps3.json) (last updated `2019-12-05T23-30-17`)
+|Platform|`tunables.json`|Last Update|Number of Logged Updates|
+|-|-|-|-|
+|PC|[`tunables-pcros.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-pcros.json)|`2022-04-29T08-27-16`|[0](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-pcros.md)|
+|Xbox Series X|[`tunables-xboxsx.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxsx.json)|`2022-04-28T08-20-09`|[0](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxsx.md)|
+|Xbox One|[`tunables-xboxone.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxone.json)|`2022-04-29T08-27-56`|[0](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxone.md)|
+|Xbox 360|[`tunables-xbox360.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xbox360.json)|`2019-12-05T23-32-04`|0[^1]|
+|PS5|[`tunables-ps5.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps5.json)|`2022-04-28T08-20-26`|[0](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps5.md)|
+|PS4|[`tunables-ps4.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps4.json)|`2022-04-29T08-27-26`|[0](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps4.md)|
+|PS3|[`tunables-ps3.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps3.json)|`2019-12-05T23-30-17`|0[^1]|
 
 Historical entries can be found in [`history/`](https://github.com/branw/gta-v-tunables-tracker/blob/main/history).
+
+[^1]: [GTA Online for the Xbox 360 and PS3 was shutdown in December 2021](https://www.rockstargames.com/newswire/article/51989315o2aa3a/gta-online-for-playstation-3-and-xbox-360-will-shut-down-on-december-1),
+so these files are not expected to receive any further updates.
 
 ## License
 

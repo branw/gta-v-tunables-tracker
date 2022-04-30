@@ -21,10 +21,18 @@ PLATFORMS = ['xbox360', 'xboxone', 'xboxsx', 'ps3', 'ps4', 'ps5', 'pcros']
 
 failure = False
 
+# Ensure the history directory exists
+Path('history/').mkdir(parents=False, exist_ok=True)
+
 for platform in PLATFORMS:
-    url = f'http://prod.cloud.rockstargames.com/titles/gta5/{platform}/0x1a098062.json'
-    response = requests.get(url)
-    content = response.content
+    try:
+        url = f'http://prod.cloud.rockstargames.com/titles/gta5/{platform}/0x1a098062.json'
+        response = requests.get(url)
+        content = response.content
+    except Exception as e:
+        print(f'Failed to get {url}', e)
+        failure = True
+        continue
 
     trailer_len = len(content) % 16
     ciphertext = content[:-trailer_len] if trailer_len > 0 else content
@@ -61,27 +69,37 @@ for platform in PLATFORMS:
 
     entry_path = f'history/{last_modified}-{platform}-{ciphertext_hash}.json'
 
+    no_changes = previous_entry and Path(previous_entry_path) == Path(entry_path)
+    num_previous_entries = len(previous_entry_paths)
+    if no_changes:
+        num_previous_entries -= 1
+
     # Update dates in the README
     with open('README.md', 'r') as f:
         readme = f.read()
     with open('README.md', 'w') as f:
         f.write(re.sub(
-            f'tunables-{platform}\.json\) \(last updated `(.*)`',
-            f'tunables-{platform}.json) (last updated `{last_modified}`',
+            fr'\[`tunables-{platform}.json`\](.*)\|`(.*)`\|(\[?)(\d+)',
+            f'[`tunables-{platform}.json`]\\1|`{last_modified}`|\\g<3>{num_previous_entries}',
             readme))   
 
-    if previous_entry and Path(previous_entry_path) == Path(entry_path):
+    if no_changes:
         print(f'No changes for {platform} - matches {previous_entry_path}')
         continue
 
-    Path('history/').mkdir(parents=False, exist_ok=True)
+    # Write the historical entry
     with open(entry_path, 'w') as f:
         f.write(json.dumps(entry, indent=4))
 
+    # We still want to log the entry when payload parsing fail so that we can
+    # backfill existing entries after fixing the script. However, we cannot
+    # update the current entry or changelog.
     if payload:
+        # Update the current entry
         with open(f'tunables-{platform}.json', 'w') as f:
             f.write(json.dumps(payload, indent=4))
 
+        # Update the changelog
         if previous_entry:
             print(f'Diffing payloads of {entry_path} and {previous_entry_path}')
 
@@ -94,5 +112,7 @@ for platform in PLATFORMS:
                 pprint.pprint(diff, f)
                 f.write('```\n')     
 
+# Fail this GitHub Actions step so we get a notification when something went
+# wrong while grabbing the file or parsing it
 if failure:
     exit(1)
