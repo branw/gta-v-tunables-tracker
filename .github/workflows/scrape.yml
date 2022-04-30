@@ -1,0 +1,22 @@
+name: Scrape Tunables
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 * * * *' # Every hour, at minute 35
+    
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      - run: pip install -r src/requirements.txt
+      - run: python src/run.py
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: 'main'
