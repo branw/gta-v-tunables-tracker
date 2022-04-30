@@ -46,7 +46,7 @@ for platform in PLATFORMS:
         'payload': payload,
     }
 
-    previous_entry_paths = sorted(glob(f'../history/*-{platform}-*.json'))
+    previous_entry_paths = sorted(glob(f'history/*-{platform}-*.json'))
 
     previous_entry = None
     previous_entry_path = None
@@ -59,12 +59,12 @@ for platform in PLATFORMS:
     hasher.update(ciphertext)
     ciphertext_hash = hasher.hexdigest()
 
-    entry_path = f'../history/{last_modified}-{platform}-{ciphertext_hash}.json'
+    entry_path = f'history/{last_modified}-{platform}-{ciphertext_hash}.json'
 
     # Update dates in the README
-    with open('../README.md', 'r') as f:
+    with open('README.md', 'r') as f:
         readme = f.read()
-    with open('../README.md', 'w') as f:
+    with open('README.md', 'w') as f:
         f.write(re.sub(
             f'tunables-{platform}\.json\) \(last updated `(.*)`',
             f'tunables-{platform}.json) (last updated `{last_modified}`',
@@ -74,19 +74,19 @@ for platform in PLATFORMS:
         print(f'No changes for {platform} - matches {previous_entry_path}')
         continue
 
-    Path('../history/').mkdir(parents=False, exist_ok=True)
+    Path('history/').mkdir(parents=False, exist_ok=True)
     with open(entry_path, 'w') as f:
         f.write(json.dumps(entry, indent=4))
 
     if payload:
-        with open(f'../tunables-{platform}.json', 'w') as f:
+        with open(f'tunables-{platform}.json', 'w') as f:
             f.write(json.dumps(payload, indent=4))
 
         if previous_entry:
             print(f'Diffing payloads of {entry_path} and {previous_entry_path}')
 
             diff = jsondiff.diff(previous_entry['payload'], entry['payload'], syntax='explicit')
-            with open(f'../changelog-{platform}.md', 'a') as f:
+            with open(f'changelog-{platform}.md', 'a') as f:
                 if f.tell() == 0:
                     f.write(f'# Changelog for `{platform}`\n\n')
                 
@@ -96,4 +96,3 @@ for platform in PLATFORMS:
 
 if failure:
     exit(1)
-
