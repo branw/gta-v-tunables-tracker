@@ -356,3 +356,8 @@
                                 'FF8720AD': {0: {update: {'value': True}}},
                                 'FFC09203': {0: {update: {'value': 7}}}}}}}
 ```
+## `2022-05-05T08-33-24` to `2022-05-05T13-56-42`
+
+```
+{update: {'tunables': {delete: ['B51CE924']}}}
+```
