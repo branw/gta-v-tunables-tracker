@@ -671,3 +671,9 @@
                                 'FF8720AD': {0: {update: {'value': False}}},
                                 'FFC09203': {0: {update: {'value': 4}}}}}}}
 ```
+## `2022-05-12T08-29-43` to `2022-05-18T10-08-28`
+
+```
+{update: {'tunables': {insert: {'2C4EE5C3': [{'value': 0}],
+                                '616CBD7B': [{'value': 0}]}}}}
+```
