@@ -1613,3 +1613,8 @@
 ```
 {update: {'tunables': {delete: ['B8E13251']}}}
 ```
+## `2022-05-30T12-49-18` to `2022-05-31T13-48-54`
+
+```
+{update: {'tunables': {insert: {'E001ECB': [{'value': True}]}}}}
+```
