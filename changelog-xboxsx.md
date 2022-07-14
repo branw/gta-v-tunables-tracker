@@ -4688,3 +4688,31 @@
                                 'FF8720AD': {0: {update: {'value': False}}},
                                 'FFC09203': {0: {update: {'value': 7}}}}}}}
 ```
+## `2022-07-07T08-16-59` to `2022-07-14T08-18-34`
+
+```
+{update: {'contentlists': {insert: [(3,
+                                     [-1553450503,
+                                      453218313,
+                                      1402727652,
+                                      -222490443])]},
+          'tunables': {insert: {'10936EF1': [{'value': 30000}],
+                                '195ABEB4': [{'value': 3.0}],
+                                '423C7A6F': [{'value': 2000}],
+                                '6E55AAA5': [{'value': 30000}],
+                                '7A04D17B': [{'value': 30000}],
+                                '7EEFD0F9': [{'value': 3.0}],
+                                'C7083A76': [{'value': 30000}],
+                                'CBF339F4': [{'value': 3.0}],
+                                'CC5755B9': [{'value': 3.0}]},
+                       update: {'2082E0D5': {0: {update: {'value': 1037999239}}},
+                                '262972EB': {0: {update: {'value': 0}}},
+                                '44FE9642': {0: {update: {'value': 60000}}},
+                                '76FBBBA6': {0: {update: {'value': -516517508}}},
+                                '840B9AFF': {0: {update: {'value': 140000}}},
+                                '928D9451': {0: {update: {'value': 0}}},
+                                'AA0614AB': {0: {update: {'value': 1538846039}}},
+                                'C91AA5AA': {0: {update: {'value': 2083921180}}},
+                                'D4A46D93': {0: {update: {'value': 0}}},
+                                'EC66EBF8': {0: {update: {'value': 4}}}}}}}
+```
