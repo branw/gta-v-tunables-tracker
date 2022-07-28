@@ -5999,3 +5999,9 @@
 ```
 {update: {'tunables': {insert: {'F8B19181': [{'value': 0.0}]}}}}
 ```
+## `2022-07-27T13-47-13` to `2022-07-28T15-23-58`
+
+```
+{update: {'tunables': {insert: {'B466E815': [{'value': 490000}],
+                                'CF74DD6B': [{'value': True}]}}}}
+```
