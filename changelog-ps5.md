@@ -6010,3 +6010,9 @@
 ```
 {update: {'tunables': {insert: {'2EECEB8C': [{'value': 5760}]}}}}
 ```
+## `2022-08-01T08-26-13` to `2022-08-02T08-55-31`
+
+```
+{update: {'tunables': {insert: {'710164E6': [{'value': 50}]},
+                       update: {'8CE2E272': {0: {update: {'value': 300000}}}}}}}
+```
