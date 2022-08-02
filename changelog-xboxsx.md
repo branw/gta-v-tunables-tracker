@@ -6013,3 +6013,9 @@
 ```
 {update: {'tunables': {insert: {'846665A6': [{'value': False}]}}}}
 ```
+## `2022-08-02T13-46-32` to `2022-08-02T14-34-06`
+
+```
+{update: {'tunables': {insert: {'3416FCC9': [{'value': 0.5}],
+                                '65365EB3': [{'value': 0.5}]}}}}
+```

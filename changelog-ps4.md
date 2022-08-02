@@ -4759,3 +4759,9 @@
 {update: {'tunables': {insert: {'710164E6': [{'value': 50}]},
                        update: {'8CE2E272': {0: {update: {'value': 300000}}}}}}}
 ```
+## `2022-08-02T08-55-38` to `2022-08-02T14-34-32`
+
+```
+{update: {'tunables': {insert: {'3416FCC9': [{'value': 0.5}],
+                                '65365EB3': [{'value': 0.5}]}}}}
+```
