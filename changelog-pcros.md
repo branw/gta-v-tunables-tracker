@@ -6050,3 +6050,10 @@
                                 'FF8720AD': {0: {update: {'value': True}}},
                                 'FFC09203': {0: {update: {'value': 7}}}}}}}
 ```
+## `2022-08-04T08-52-20` to `2022-08-04T11-14-16`
+
+```
+{update: {'tunables': {insert: {'15795E12': [{'value': True}],
+                                'BB3579B7': [{'value': 0}],
+                                'F8F8579D': [{'value': True}]}}}}
+```
