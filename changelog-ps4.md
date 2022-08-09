@@ -5435,3 +5435,9 @@
 ```
 {update: {'tunables': {update: {'7D517079': {0: {update: {'value': 2}}}}}}}
 ```
+## `2022-08-09T08-45-33` to `2022-08-09T08-53-16`
+
+```
+{update: {'tunables': {insert: {'B4E0448': [{'value': 2}]},
+                       update: {'7D517079': {0: {update: {'value': 300000}}}}}}}
+```
