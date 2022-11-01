@@ -14986,3 +14986,8 @@
 ```
 {update: {'tunables': {insert: {'962BDDC1': [{'value': True}]}}}}
 ```
+## `2022-10-31T09-39-44` to `2022-11-01T09-12-33`
+
+```
+{update: {'tunables': {delete: ['E894174D', '87E02668', '962BDDC1']}}}
+```
