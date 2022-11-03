@@ -14227,3 +14227,8 @@
                                 'FF8720AD': {0: {update: {'value': False}}},
                                 'FFC09203': {0: {update: {'value': 4}}}}}}}
 ```
+## `2022-11-03T09-53-49` to `2022-11-03T13-56-03`
+
+```
+{update: {'contentlists': {3: {delete: [17]}}}}
+```
