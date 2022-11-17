@@ -15227,3 +15227,11 @@
                                 'FF8720AD': {0: {update: {'value': True}}},
                                 'FFC09203': {0: {update: {'value': 4}}}}}}}
 ```
+## `2022-11-17T09-28-41` to `2022-11-17T14-54-44`
+
+```
+{update: {'tunables': {insert: {'76F978B8': [{'value': 6.52}],
+                                'A21A3D5E': [{'value': 6.52}]},
+                       update: {'7D1A4CD5': {0: {update: {'value': 2362500}}},
+                                'C3F6276C': {0: {update: {'value': 3.26}}}}}}}
+```
