@@ -22811,3 +22811,31 @@
                                 'FF8720AD': {0: {update: {'value': True}}},
                                 'FFC09203': {0: {update: {'value': 5}}}}}}}
 ```
+## `2022-12-08T09-08-15` to `2022-12-08T09-44-25`
+
+```
+{update: {'tunables': {insert: {'10791DF0': [{'value': 4}],
+                                '26657987': [{'value': 6}],
+                                '58D7CF13': [{'value': 1}],
+                                '7AA19E36': [{'value': 3}],
+                                'C7416242': [{'value': True}]},
+                       update: {'21BF3F7E': {0: {update: {'value': 13}}},
+                                '2FF18A2C': {0: {update: {'value': 15}}},
+                                '3127B3E5': {0: {update: {'value': 75}}},
+                                '3716971D': {0: {update: {'value': 8}}},
+                                '49429963': {0: {update: {'value': 115}}},
+                                '5344C905': {0: {update: {'value': 100}}},
+                                '63F0C63F': {0: {update: {'value': 11}}},
+                                '676546FD': {0: {update: {'value': 13}}},
+                                '6C935B9C': {0: {update: {'value': 0}}},
+                                '73FB1E54': {0: {update: {'value': 16}}},
+                                '8371FEDA': {0: {update: {'value': 13}}},
+                                '8B04EBF3': {0: {update: {'value': 11}}},
+                                '8BDDCD93': {0: {update: {'value': 4}}},
+                                '8F5C3A49': {0: {update: {'value': 2}}},
+                                '9BF6108B': {0: {update: {'value': 0}}},
+                                'B6390F69': {0: {update: {'value': 52}}},
+                                'D97580D6': {0: {update: {'value': -1758379524}}},
+                                'F38DC16': {0: {update: {'value': 3}}},
+                                'FB9899AE': {0: {update: {'value': 50}}}}}}}
+```
