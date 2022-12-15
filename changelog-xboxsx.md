@@ -24260,3 +24260,39 @@
                                 'D8184058': [{'value': 60000}],
                                 'F8BF7B2A': [{'value': 0}]}}}}
 ```
+## `2022-12-13T21-12-51` to `2022-12-15T09-39-41`
+
+```
+{update: {'contentlists': {delete: [0],
+                           insert: [(0,
+                                     [228679551,
+                                      2055754035,
+                                      1662663879,
+                                      -516373021,
+                                      -843463387,
+                                      484124446,
+                                      -406781644])]},
+          'tunables': {insert: {'1165AA8C': [{'value': 60000}],
+                                '1CDED54A': [{'value': 60000}],
+                                '78945D98': [{'value': 80}],
+                                '9DE551DB': [{'value': 20}]},
+                       update: {'1F094EE9': {0: {update: {'value': -1431614283}}},
+                                '333B1434': {0: {update: {'value': -843463387}}},
+                                '43F57E07': {0: {update: {'value': 119}}},
+                                '54531EC2': {0: {update: {'value': 120}}},
+                                '5EE5817C': {0: {update: {'value': 114}}},
+                                '60343684': {0: {update: {'value': 119}}},
+                                '6E7AD311': {0: {update: {'value': 107}}},
+                                '7AFB4793': {0: {update: {'value': -270381569}}},
+                                '7B6CBA8A': {0: {update: {'value': 120}}},
+                                '87B05311': {0: {update: {'value': 119}}},
+                                '8DE08FD9': {0: {update: {'value': -516373021}}},
+                                '94788AC': {0: {update: {'value': 120}}},
+                                'A05EC46D': {0: {update: {'value': 484124446}}},
+                                'A78BC532': {0: {update: {'value': 119}}},
+                                'B5AC6173': {0: {update: {'value': 110}}},
+                                'B83736DC': {0: {update: {'value': 1925589327}}},
+                                'DCE2E188': {0: {update: {'value': 2055754035}}},
+                                'E532407E': {0: {update: {'value': 119}}},
+                                'FCE7EFED': {0: {update: {'value': 119}}}}}}}
+```
