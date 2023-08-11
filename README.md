@@ -17,12 +17,12 @@ tunables file for each platform:
 
 |Platform|`tunables.json`|Last Update|Number of Logged Updates|
 |-|-|-|-|
-|PC|[`tunables-pcros.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-pcros.json)|`2023-08-10T08-09-47`|[178](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-pcros.md)|
-|Xbox Series X|[`tunables-xboxsx.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxsx.json)|`2023-08-10T08-09-08`|[111](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxsx.md)|
-|Xbox One|[`tunables-xboxone.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxone.json)|`2023-08-10T08-09-18`|[105](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxone.md)|
+|PC|[`tunables-pcros.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-pcros.json)|`2023-08-11T10-08-04`|[179](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-pcros.md)|
+|Xbox Series X|[`tunables-xboxsx.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxsx.json)|`2023-08-11T10-08-47`|[112](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxsx.md)|
+|Xbox One|[`tunables-xboxone.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxone.json)|`2023-08-11T10-08-35`|[106](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxone.md)|
 |Xbox 360|[`tunables-xbox360.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xbox360.json)|`2019-12-05T23-32-04`|0[^1]|
-|PS5|[`tunables-ps5.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps5.json)|`2023-08-10T08-09-27`|[110](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps5.md)|
-|PS4|[`tunables-ps4.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps4.json)|`2023-08-10T08-09-37`|[106](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps4.md)|
+|PS5|[`tunables-ps5.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps5.json)|`2023-08-11T10-08-25`|[111](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps5.md)|
+|PS4|[`tunables-ps4.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps4.json)|`2023-08-11T10-08-14`|[107](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-ps4.md)|
 |PS3|[`tunables-ps3.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-ps3.json)|`2019-12-05T23-30-17`|0[^1]|
 
 Historical entries can be found in [`history/`](https://github.com/branw/gta-v-tunables-tracker/blob/main/history).
