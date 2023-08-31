@@ -43232,3 +43232,9 @@
                                 'FF8720AD': {0: {update: {'value': True}}},
                                 'FFC09203': {0: {update: {'value': 7}}}}}}}
 ```
+## `2023-08-31T08-59-08` to `2023-08-31T12-31-35`
+
+```
+{update: {'tunables': {delete: ['3AB1E059'],
+                       insert: {'B709E981': [{'value': 406000}]}}}}
+```
