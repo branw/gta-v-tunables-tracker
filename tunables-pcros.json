@@ -4062,6 +4062,16 @@
                 "value": 180000
             }
         ],
+        "691DC4BA": [
+            {
+                "value": true
+            }
+        ],
+        "1722FFEE": [
+            {
+                "value": 0.05
+            }
+        ],
         "77578CB1": [
             {
                 "value": false

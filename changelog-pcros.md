@@ -39621,3 +39621,9 @@
 ```
 {update: {'tunables': {delete: ['8B7D3320']}}}
 ```
+## `2023-10-03T08-58-58` to `2023-10-04T08-41-42`
+
+```
+{update: {'tunables': {insert: {'1722FFEE': [{'value': 0.05}],
+                                '691DC4BA': [{'value': True}]}}}}
+```
