@@ -56422,3 +56422,30 @@
                                 'FF5DF632': {0: {update: {'value': 5}}},
                                 'FFC09203': {0: {update: {'value': 7}}}}}}}
 ```
+## `2023-12-21T10-15-49` to `2023-12-28T08-59-37`
+
+```
+{update: {'tunables': {delete: ['1F90B8A5', '10E1744C', 'B5F9B1B3', 'C8387A0E'],
+                       insert: {'1AE84735': [{'value': True}],
+                                '36257C7F': [{'value': True}],
+                                'D6295540': [{'value': 7}]},
+                       update: {'12087D24': {0: {update: {'value': 181}}},
+                                '243995CE': {0: {update: {'value': 65}}},
+                                '263D036B': {0: {update: {'value': 8}}},
+                                '28785B1D': {0: {update: {'value': 3}}},
+                                '2B8718AB': {0: {update: {'value': 38}}},
+                                '3E300171': {0: {update: {'value': 3}}},
+                                '500FA530': {0: {update: {'value': 4}}},
+                                '5CCF73A4': {0: {update: {'value': 38}}},
+                                '64A3854': {0: {update: {'value': 381}}},
+                                '7705280F': {0: {update: {'value': 94}}},
+                                '8E8F42E7': {0: {update: {'value': 175}}},
+                                '945582FB': {0: {update: {'value': 270000}}},
+                                'A5CD25E6': {0: {update: {'value': 270000}}},
+                                'A6142678': {0: {update: {'value': 360000}}},
+                                'A7B0CD9C': {0: {update: {'value': 74}}},
+                                'B3B8C0A0': {0: {update: {'value': 9}}},
+                                'C08CC99A': {0: {update: {'value': 54}}},
+                                'C79DB829': {0: {update: {'value': 8}}},
+                                'CF01D807': {0: {update: {'value': 73}}}}}}}
+```
