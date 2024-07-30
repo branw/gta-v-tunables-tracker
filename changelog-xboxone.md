@@ -59262,3 +59262,11 @@
                                 'FF5DF632': {0: {update: {'value': 7}}},
                                 'FFC09203': {0: {update: {'value': 8}}}}}}}
 ```
+## `2024-07-25T09-01-08` to `2024-07-30T08-55-49`
+
+```
+{update: {'tunables': {insert: {'209175AB': [{'value': 1}],
+                                '2A792CC4': [{'value': True}],
+                                '6F240337': [{'value': True}],
+                                'A5D25CC0': [{'value': True}]}}}}
+```
