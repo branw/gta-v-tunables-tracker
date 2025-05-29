@@ -4,19 +4,13 @@
     "tunablePool": 2500,
     "contentlists": [
         [
-            -120000592,
-            -1324007969,
-            -346608607,
-            -1709103848,
-            1418135391,
-            507098342,
-            1631322902,
-            -1744312606,
-            -2070714543,
-            -52562070,
-            -1677015224,
-            -686753248,
-            -1387284599,
+            -395404320,
+            -624479689,
+            -39670749,
+            -415375935,
+            528905572,
+            -467378764,
+            1968784023,
             1958145876,
             1268919287,
             -1186946291,
@@ -24,6 +18,16 @@
             -10990348,
             -9119258,
             -1475989677
+        ],
+        [
+            -538989715,
+            -1397234849,
+            -2001456504,
+            -715488478,
+            132398312,
+            -518422011,
+            282444338,
+            -739162990
         ]
     ],
     "tunables": {
@@ -134,37 +138,37 @@
         ],
         "AA0614AB": [
             {
-                "value": -123383311
+                "value": 1454015302
             }
         ],
         "2082E0D5": [
             {
-                "value": 1395125606
+                "value": 1017936324
             }
         ],
         "C91AA5AA": [
             {
-                "value": 548823713
+                "value": -1184300780
             }
         ],
         "76FBBBA6": [
             {
-                "value": 892462550
+                "value": 1311852711
             }
         ],
         "928D9451": [
             {
-                "value": -1039908503
+                "value": -499011505
             }
         ],
         "262972EB": [
             {
-                "value": -2002193617
+                "value": -979580854
             }
         ],
         "D4A46D93": [
             {
-                "value": -1638714603
+                "value": 88080413
             }
         ],
         "EC66EBF8": [
@@ -174,12 +178,12 @@
         ],
         "C11CF637": [
             {
-                "value": 4
+                "value": 16
             }
         ],
         "7B5C61B3": [
             {
-                "value": 2
+                "value": 1
             }
         ],
         "F0592150": [
@@ -1759,7 +1763,7 @@
         ],
         "CD8F5BBD": [
             {
-                "value": 684105307
+                "value": 468097311
             }
         ],
         "12B94542": [
@@ -1794,7 +1798,7 @@
         ],
         "4400A5": [
             {
-                "value": 7
+                "value": 8
             }
         ],
         "4885DCED": [
@@ -1804,37 +1808,37 @@
         ],
         "74A7E7E1": [
             {
-                "value": 6
+                "value": 7
             }
         ],
         "236C7B57": [
             {
-                "value": 1909189272
+                "value": 629969764
             }
         ],
         "BC007E11": [
             {
-                "value": 128
+                "value": 89
             }
         ],
         "310D682D": [
             {
-                "value": 12
+                "value": 0
             }
         ],
         "82282FC3": [
             {
-                "value": 0
+                "value": 88
             }
         ],
         "8D74464F": [
             {
-                "value": 158
+                "value": 0
             }
         ],
         "74D8EFC3": [
             {
-                "value": 34
+                "value": 93
             }
         ],
         "E623D257": [
@@ -1849,47 +1853,47 @@
         ],
         "4B3B75B": [
             {
-                "value": 0.5
+                "value": 0.64
             }
         ],
         "D3188F47": [
             {
-                "value": 4
+                "value": 0
             }
         ],
         "1EF0108A": [
             {
-                "value": 1
+                "value": 5
             }
         ],
         "18491587": [
             {
-                "value": 1
+                "value": 3
             }
         ],
         "13659F64": [
             {
-                "value": 196
+                "value": 197
             }
         ],
         "24D8F2C4": [
             {
-                "value": 1886268224
+                "value": -505223465
             }
         ],
         "8F976BB3": [
             {
-                "value": 1
+                "value": 74
             }
         ],
         "CC81E587": [
             {
-                "value": 49
+                "value": 74
             }
         ],
         "C4225E4": [
             {
-                "value": 51
+                "value": 74
             }
         ],
         "F687FA70": [
@@ -1899,17 +1903,17 @@
         ],
         "C42C54D4": [
             {
-                "value": 8
+                "value": 154
             }
         ],
         "B502B681": [
             {
-                "value": 11
+                "value": 156
             }
         ],
         "681D9024": [
             {
-                "value": 0
+                "value": 4
             }
         ],
         "F65143F0": [
@@ -1934,32 +1938,32 @@
         ],
         "B7814D53": [
             {
-                "value": -2.35
+                "value": -1.78
             }
         ],
         "919B0187": [
             {
-                "value": 0.51
+                "value": 0.77
             }
         ],
         "7AA47D9D": [
             {
-                "value": -7.0
+                "value": -4.6
             }
         ],
         "31FBFF3E": [
             {
-                "value": -1810806490
+                "value": -1622444098
             }
         ],
         "2B6BB01": [
             {
-                "value": 155
+                "value": 12
             }
         ],
         "14D65F40": [
             {
-                "value": 151
+                "value": 12
             }
         ],
         "62E22A58": [
@@ -1969,82 +1973,82 @@
         ],
         "74A3CDDB": [
             {
-                "value": 13
+                "value": 156
             }
         ],
         "39782883": [
             {
-                "value": 13
+                "value": 0
             }
         ],
         "4BDDCD4E": [
             {
-                "value": 111
+                "value": 0
             }
         ],
         "80B60617": [
             {
-                "value": 7
+                "value": 0
             }
         ],
         "C07314C4": [
             {
-                "value": 1051415893
+                "value": 1456744817
             }
         ],
         "D0AD6D48": [
             {
-                "value": 6
+                "value": 33
             }
         ],
         "2EBD1C4": [
             {
-                "value": 0
+                "value": 120
             }
         ],
         "935134F0": [
             {
-                "value": 4
+                "value": 47
             }
         ],
         "D8FDC038": [
             {
-                "value": 156
+                "value": 0
             }
         ],
         "D0776CE4": [
             {
-                "value": 0
+                "value": 2
             }
         ],
         "339D268": [
             {
-                "value": 0
+                "value": 156
             }
         ],
         "4C6BDC4C": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "81F1EE65": [
             {
-                "value": 784565758
+                "value": 1046206681
             }
         ],
         "59D60051": [
             {
-                "value": 68
+                "value": 112
             }
         ],
         "BF7D4B9E": [
             {
-                "value": 112
+                "value": 111
             }
         ],
         "D007C455": [
             {
-                "value": 68
+                "value": 0
             }
         ],
         "D41CCC7F": [
@@ -2054,7 +2058,7 @@
         ],
         "BB09C2DB": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "F536B734": [
@@ -2064,37 +2068,37 @@
         ],
         "D166F5C3": [
             {
-                "value": 0
+                "value": 10
             }
         ],
         "F3786B3D": [
             {
-                "value": 2038480341
+                "value": -465825307
             }
         ],
         "6F548C38": [
             {
-                "value": 111
+                "value": 70
             }
         ],
         "EC1C85CE": [
             {
-                "value": 53
+                "value": 70
             }
         ],
         "F9524050": [
             {
-                "value": 0
+                "value": 70
             }
         ],
         "2F082BBB": [
             {
-                "value": 53
+                "value": 70
             }
         ],
         "B6501A2E": [
             {
-                "value": 53
+                "value": 70
             }
         ],
         "33381404": [
@@ -2104,17 +2108,17 @@
         ],
         "EBEDBBE7": [
             {
-                "value": 7
+                "value": 3
             }
         ],
         "F97EB7D8": [
             {
-                "value": 12
+                "value": 7
             }
         ],
         "50C991B5": [
             {
-                "value": 23
+                "value": 18
             }
         ],
         "DE9F5912": [
@@ -2129,47 +2133,47 @@
         ],
         "3A8DBF9A": [
             {
-                "value": -313185164
+                "value": 1579902654
             }
         ],
         "E5676DA9": [
             {
-                "value": 138
+                "value": 112
             }
         ],
         "D315C906": [
             {
-                "value": 138
+                "value": 39
             }
         ],
         "44DE1085": [
             {
-                "value": 89
+                "value": 0
             }
         ],
         "34BCF043": [
             {
-                "value": 88
+                "value": 0
             }
         ],
         "407DA3D8": [
             {
-                "value": 0
+                "value": 3
             }
         ],
         "2E177F0C": [
             {
-                "value": 0
+                "value": 156
             }
         ],
         "45C0C22D": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "CD07883": [
             {
-                "value": 7
+                "value": 1
             }
         ],
         "8BF90399": [
@@ -2189,47 +2193,47 @@
         ],
         "FB4A392": [
             {
-                "value": -1311154784
+                "value": -2115793025
             }
         ],
         "BC6966EA": [
             {
-                "value": 90
+                "value": 141
             }
         ],
         "A80BBE2F": [
             {
-                "value": 0
+                "value": 120
             }
         ],
         "EBB5E6E2": [
             {
-                "value": 102
+                "value": 73
             }
         ],
         "B9D80327": [
             {
-                "value": 156
+                "value": 111
             }
         ],
         "439AF54F": [
             {
-                "value": 0
+                "value": 111
             }
         ],
         "6EF44C01": [
             {
-                "value": 0
+                "value": 111
             }
         ],
         "7AC2A452": [
             {
-                "value": 0
+                "value": 13
             }
         ],
         "DE2F38ED": [
             {
-                "value": 0
+                "value": 6
             }
         ],
         "1E2EAED5": [
@@ -2249,32 +2253,32 @@
         ],
         "C5D4F2A2": [
             {
-                "value": -2079788230
+                "value": -159126838
             }
         ],
         "BDB6E63": [
             {
-                "value": 28
+                "value": 50
             }
         ],
         "1C0A0EC0": [
             {
-                "value": 111
+                "value": 27
             }
         ],
         "8767105A": [
             {
-                "value": 28
+                "value": 53
             }
         ],
         "74F86B7D": [
             {
-                "value": 111
+                "value": 27
             }
         ],
         "6C8E43E": [
             {
-                "value": 111
+                "value": 0
             }
         ],
         "D3027CB2": [
@@ -2284,12 +2288,12 @@
         ],
         "96D1C371": [
             {
-                "value": 9
+                "value": 0
             }
         ],
         "C139E220": [
             {
-                "value": 2
+                "value": 6
             }
         ],
         "6A9C2A3B": [
@@ -2309,47 +2313,47 @@
         ],
         "C1111A36": [
             {
-                "value": -1291952903
+                "value": 2035069708
             }
         ],
         "D88A1001": [
             {
-                "value": 91
+                "value": 12
             }
         ],
         "AA00B2EB": [
             {
-                "value": 0
+                "value": 138
             }
         ],
         "2D6DBEB5": [
             {
-                "value": 91
+                "value": 0
             }
         ],
         "5FC62369": [
             {
-                "value": 156
+                "value": 131
             }
         ],
         "1DFF9AEB": [
             {
-                "value": 0
+                "value": 131
             }
         ],
         "F0DA40A1": [
             {
-                "value": 0
+                "value": 131
             }
         ],
         "B6740B17": [
             {
-                "value": 0
+                "value": 6
             }
         ],
         "8D866CC9": [
             {
-                "value": 7
+                "value": 6
             }
         ],
         "C8C7D825": [
@@ -2369,47 +2373,47 @@
         ],
         "49438DA5": [
             {
-                "value": 310284501
+                "value": -1696146015
             }
         ],
         "7A7FF9D6": [
             {
-                "value": 34
+                "value": 112
             }
         ],
         "8B059AE1": [
             {
-                "value": 34
+                "value": 70
             }
         ],
         "6A16DE11": [
             {
-                "value": 47
+                "value": 70
             }
         ],
         "57C03964": [
             {
-                "value": 0
+                "value": 156
             }
         ],
         "43FE0CD3": [
             {
-                "value": 13
+                "value": 0
             }
         ],
         "141A2D18": [
             {
-                "value": 111
+                "value": 0
             }
         ],
         "45730C17": [
             {
-                "value": 10
+                "value": 0
             }
         ],
         "9A11163E": [
             {
-                "value": 2
+                "value": 7
             }
         ],
         "6DA4F906": [
@@ -2429,22 +2433,22 @@
         ],
         "34529CE5": [
             {
-                "value": 1123216662
+                "value": 1426219628
             }
         ],
         "7DEBB7F9": [
             {
-                "value": 143
+                "value": 7
             }
         ],
         "5525E66E": [
             {
-                "value": 1
+                "value": 54
             }
         ],
         "589CF240": [
             {
-                "value": 31
+                "value": 54
             }
         ],
         "3DE4BCD0": [
@@ -2924,52 +2928,52 @@
         ],
         "28785B1D": [
             {
-                "value": 76
+                "value": 77
             }
         ],
         "500FA530": [
             {
-                "value": 2
+                "value": 4
             }
         ],
         "3E300171": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "2C4FDDAD": [
             {
-                "value": 1
+                "value": 3
             }
         ],
         "CF01D807": [
             {
-                "value": 323
+                "value": 55
             }
         ],
         "5CCF73A4": [
             {
-                "value": 258
+                "value": 53
             }
         ],
         "7705280F": [
             {
-                "value": 159
+                "value": 19
             }
         ],
         "A6142678": [
             {
-                "value": 340000
+                "value": 392000
             }
         ],
         "945582FB": [
             {
-                "value": 389000
+                "value": 401000
             }
         ],
         "A5CD25E6": [
             {
-                "value": 393000
+                "value": 402000
             }
         ],
         "C79DB829": [
@@ -2989,77 +2993,77 @@
         ],
         "12087D24": [
             {
-                "value": 182
+                "value": 3
             }
         ],
         "2B8718AB": [
             {
-                "value": 71
+                "value": 63
             }
         ],
         "263D036B": [
             {
-                "value": 200
+                "value": 67
             }
         ],
         "8E8F42E7": [
             {
-                "value": 11
+                "value": 69
             }
         ],
         "C08CC99A": [
             {
-                "value": 104
+                "value": 122
             }
         ],
         "243995CE": [
             {
-                "value": 1
+                "value": 66
             }
         ],
         "A7B0CD9C": [
             {
-                "value": 39
+                "value": 177
             }
         ],
         "B3B8C0A0": [
             {
-                "value": 66
+                "value": 61
             }
         ],
         "10E1744C": [
             {
-                "value": 3
+                "value": 300000
             }
         ],
         "30E9C7B0": [
             {
-                "value": 350597077
+                "value": -22923932
             }
         ],
         "6725B427": [
             {
-                "value": -618237638
+                "value": -1658906650
             }
         ],
         "13AB0D33": [
             {
-                "value": 1171102963
+                "value": -618237638
             }
         ],
         "49E3F9A4": [
             {
-                "value": 205991906
+                "value": 2144741730
             }
         ],
         "779F551A": [
             {
-                "value": 1119849093
+                "value": 324215364
             }
         ],
         "AC9BBF0E": [
             {
-                "value": 1737195953
+                "value": -1810795771
             }
         ],
         "5A7A9AD1": [
@@ -3084,22 +3088,22 @@
         ],
         "D614C5A6": [
             {
-                "value": -1813897027
+                "value": 741814745
             }
         ],
         "C41F21BB": [
             {
-                "value": -1169823560
+                "value": -1420407917
             }
         ],
         "B1D4FD27": [
             {
-                "value": -37975472
+                "value": -1813897027
             }
         ],
         "F75825F5": [
             {
-                "value": 121
+                "value": 122
             }
         ],
         "B83E70CE": [
@@ -3109,7 +3113,7 @@
         ],
         "AA6ED52B": [
             {
-                "value": 0.3
+                "value": 0.5
             }
         ],
         "EFA25F95": [
@@ -3119,12 +3123,12 @@
         ],
         "C9FA1445": [
             {
-                "value": 1.0
+                "value": 0.1
             }
         ],
         "833906C0": [
             {
-                "value": 1.0
+                "value": 0.1
             }
         ],
         "73AEE7AC": [
@@ -3154,547 +3158,327 @@
         ],
         "EC38FBBC": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "B1CE86E4": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "A00EE369": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "F6DCF4A": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "1D226AB3": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "6816009D": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "6ED20E15": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "455F3B18": [
             {
-                "value": 0.3
+                "value": 0.1
             }
         ],
         "BAEEE2AC": [
             {
-                "value": 0
+                "value": 3
             }
         ],
         "244FCD43": [
             {
-                "value": 24
+                "value": 25
             }
         ],
-        "98A47A84": [
+        "6A692887": [
             {
-                "value": 50000
+                "value": 100000
             }
         ],
-        "5EABD872": [
+        "74D03BC0": [
             {
-                "value": 4000
+                "value": 2000
             }
         ],
-        "5DD6C8CC": [
+        "671DA6CB": [
             {
-                "value": 7500
+                "value": 2000
             }
         ],
-        "51A8FE63": [
+        "17EACD6D": [
             {
-                "value": 7500
+                "value": 200
             }
         ],
-        "C8D89A02": [
+        "741B1837": [
             {
-                "value": 7.5
+                "value": 2170000
             }
         ],
-        "A39A0497": [
+        "3A932FAA": [
             {
-                "value": 750
+                "value": 700000
             }
         ],
-        "D12CBA12": [
+        "8C947EC2": [
             {
-                "value": 3600000
+                "value": 1575000
             }
         ],
-        "69F75381": [
+        "F1E3638C": [
             {
-                "value": 300000
+                "value": 2800000
             }
         ],
-        "C916887B": [
+        "7CB4D1EE": [
             {
-                "value": 4200000
+                "value": 35000
             }
         ],
-        "6960525B": [
+        "F68584B3": [
             {
-                "value": 600000
+                "value": 35000
             }
         ],
-        "9754BE6A": [
-            {
-                "value": 4800000
-            }
-        ],
-        "569812CD": [
-            {
-                "value": 1200000
-            }
-        ],
-        "724247B": [
-            {
-                "value": 60000
-            }
-        ],
-        "788A7826": [
-            {
-                "value": 450000
-            }
-        ],
-        "2AFE3315": [
+        "1C747E73": [
             {
                 "value": 210000
             }
         ],
-        "72C32AD4": [
+        "662D4F61": [
             {
-                "value": 189000
+                "value": 290500
             }
         ],
-        "71C27DFA": [
+        "99F5BB03": [
             {
-                "value": 198000
+                "value": 350000
             }
         ],
-        "50A56066": [
+        "5BCEE784": [
             {
-                "value": 180000
+                "value": 665000
             }
         ],
-        "B7CC9C67": [
+        "8F972F38": [
             {
-                "value": 360000
+                "value": 479500
             }
         ],
-        "A7DE8F0F": [
+        "1FCFC715": [
             {
-                "value": 315000
+                "value": 532000
             }
         ],
-        "A7FD587D": [
+        "DCF559C1": [
             {
-                "value": 330000
+                "value": 700000
             }
         ],
-        "5C71595B": [
+        "472DDD63": [
             {
-                "value": 300000
+                "value": 584500
             }
         ],
-        "F455515D": [
+        "C68C00A0": [
             {
-                "value": 60000
+                "value": 637000
             }
         ],
-        "B97B41C9": [
+        "60CE89E": [
             {
-                "value": 180000
+                "value": 3500
             }
         ],
-        "63D36122": [
+        "29AB832B": [
             {
-                "value": 81000
+                "value": 364000
             }
         ],
-        "5D71E2F1": [
+        "3558C684": [
             {
-                "value": 270000
+                "value": 234500
             }
         ],
-        "190B658F": [
+        "7B02D0EA": [
             {
-                "value": 285000
+                "value": 556500
             }
         ],
-        "CAC84572": [
+        "D4B2AC6F": [
             {
-                "value": 381000
+                "value": 105000
             }
         ],
-        "8D119E18": [
+        "D50B1833": [
             {
-                "value": 189000
+                "value": 105000
             }
         ],
-        "925D7D8B": [
+        "6527FA58": [
             {
-                "value": 372000
+                "value": 130816
             }
         ],
-        "D88F5D48": [
+        "C6E6C5B0": [
             {
-                "value": 219000
+                "value": 263200
             }
         ],
-        "616926CE": [
+        "9B976F12": [
             {
-                "value": 297000
+                "value": 252000
             }
         ],
-        "CE29617B": [
+        "4D47D278": [
             {
-                "value": 102000
+                "value": 222600
             }
         ],
-        "BC21FCBE": [
+        "400137EB": [
             {
-                "value": 204000
+                "value": 175000
             }
         ],
-        "65FC2EDA": [
+        "E8AF8941": [
             {
-                "value": 255000
+                "value": 280000
             }
         ],
-        "48A1EEBA": [
+        "DBF1EFC6": [
             {
-                "value": 132000
+                "value": 1655500
             }
         ],
-        "261D8A6A": [
+        "945F60A6": [
             {
-                "value": 117000
+                "value": 631400
             }
         ],
-        "8A1ED795": [
+        "870CC601": [
             {
-                "value": 390000
+                "value": 1977500
             }
         ],
-        "171A28CB": [
+        "33F11FCB": [
             {
-                "value": 150000
+                "value": 274400
             }
         ],
-        "56BA578D": [
+        "22A77D38": [
             {
-                "value": 15000
+                "value": 616000
             }
         ],
-        "EFAC834D": [
+        "BFB2DF33": [
             {
-                "value": 15000
+                "value": 695800
             }
         ],
-        "F1881368": [
+        "B100C1CF": [
             {
-                "value": 15000
+                "value": 711900
             }
         ],
-        "35E583DE": [
+        "9E9F9D0D": [
             {
-                "value": 15000
+                "value": 647500
             }
         ],
-        "20301F01": [
+        "94458859": [
             {
-                "value": 15000
+                "value": 679700
             }
         ],
-        "CB6E8D35": [
+        "65DF2B8D": [
             {
-                "value": 15000
+                "value": 663600
             }
         ],
-        "9A339C43": [
+        "54A18912": [
             {
-                "value": 15000
+                "value": 1820000
             }
         ],
-        "E440C0F2": [
+        "49527274": [
             {
-                "value": 15000
+                "value": 2450000
             }
         ],
-        "EAE1D17C": [
+        "3C0DD7E7": [
             {
-                "value": 15000
+                "value": 1330000
             }
         ],
-        "47C072A7": [
+        "2CD9B97F": [
             {
-                "value": 15000
+                "value": 2285500
             }
         ],
-        "948CF2F6": [
+        "1F181DFC": [
             {
-                "value": 15000
+                "value": 1494500
             }
         ],
-        "E929CE58": [
+        "447AEE15": [
             {
-                "value": 15000
+                "value": 700000
             }
         ],
-        "7D099619": [
+        "95E690EB": [
             {
-                "value": 15000
+                "value": 2128000
             }
         ],
-        "FBBEEA20": [
+        "9A8B7F16": [
             {
-                "value": 15000
+                "value": 760000
             }
         ],
-        "CBE0D48B": [
+        "6F844C4B": [
             {
-                "value": 15000
+                "value": 7000000
             }
         ],
-        "DAA30BBE": [
+        "9F884012": [
             {
-                "value": 15000
+                "value": 3605000
             }
         ],
-        "52A26279": [
+        "7DF727C7": [
             {
-                "value": 15000
+                "value": 626500
             }
         ],
-        "E306149": [
+        "95C870C0": [
             {
-                "value": 15000
+                "value": 616000
             }
         ],
-        "70E09D0F": [
+        "547DBD4A": [
             {
-                "value": 15000
-            }
-        ],
-        "E427142C": [
-            {
-                "value": 15000
-            }
-        ],
-        "59F473FA": [
-            {
-                "value": 15000
-            }
-        ],
-        "FE15C572": [
-            {
-                "value": 15000
-            }
-        ],
-        "329FFDCD": [
-            {
-                "value": 15000
-            }
-        ],
-        "67D6B8AF": [
-            {
-                "value": 15000
-            }
-        ],
-        "F1A8E3C3": [
-            {
-                "value": 15000
-            }
-        ],
-        "914D02D9": [
-            {
-                "value": 15000
-            }
-        ],
-        "9437C2F": [
-            {
-                "value": 15000
-            }
-        ],
-        "9103CEF2": [
-            {
-                "value": 15000
-            }
-        ],
-        "474E676A": [
-            {
-                "value": 15000
-            }
-        ],
-        "B1DA1F93": [
-            {
-                "value": 15000
-            }
-        ],
-        "AC12B59C": [
-            {
-                "value": 15000
-            }
-        ],
-        "ADF5D4BD": [
-            {
-                "value": 15000
-            }
-        ],
-        "B157C789": [
-            {
-                "value": 15000
-            }
-        ],
-        "9502ACA2": [
-            {
-                "value": 15000
-            }
-        ],
-        "DBBC1CFF": [
-            {
-                "value": 15000
-            }
-        ],
-        "75E4B17E": [
-            {
-                "value": 15000
-            }
-        ],
-        "B3D224B8": [
-            {
-                "value": 15000
-            }
-        ],
-        "9BFF62C4": [
-            {
-                "value": 15000
-            }
-        ],
-        "C497109B": [
-            {
-                "value": 15000
-            }
-        ],
-        "3F85BE3C": [
-            {
-                "value": 15000
-            }
-        ],
-        "A3CE7767": [
-            {
-                "value": 15000
-            }
-        ],
-        "1CEDB106": [
-            {
-                "value": 15000
-            }
-        ],
-        "CECAC9F1": [
-            {
-                "value": 15000
-            }
-        ],
-        "EDA34E89": [
-            {
-                "value": 15000
-            }
-        ],
-        "4F454D8A": [
-            {
-                "value": 15000
-            }
-        ],
-        "E662B786": [
-            {
-                "value": 15000
-            }
-        ],
-        "15DC99CC": [
-            {
-                "value": 498000
-            }
-        ],
-        "45A957B9": [
-            {
-                "value": 373500
-            }
-        ],
-        "C13F285": [
-            {
-                "value": 522000
-            }
-        ],
-        "6AAB74BE": [
-            {
-                "value": 391500
-            }
-        ],
-        "159D8E87": [
-            {
-                "value": 1173000
-            }
-        ],
-        "48DE30C4": [
-            {
-                "value": 534000
-            }
-        ],
-        "A731CD41": [
-            {
-                "value": 400500
-            }
-        ],
-        "5D05FBD7": [
-            {
-                "value": 784800
-            }
-        ],
-        "C2B3EA68": [
-            {
-                "value": 588600
-            }
-        ],
-        "EC43ACC4": [
-            {
-                "value": 1005000
-            }
-        ],
-        "2AD7B95C": [
-            {
-                "value": 597000
-            }
-        ],
-        "D98FA0B": [
-            {
-                "value": 1080000
-            }
-        ],
-        "6AFD9C62": [
-            {
-                "value": 810000
+                "value": 693000
             }
         ],
         "8B7D3320": [
             {
-                "value": "3YJAkK9a6MyZR735XqRlMMoIzYLl/4LmJn3B/9v7xE0jFmWQYXrADGOGGVQcRQZBipv0ukcFlEDAfaC5jpvbFOnGWk6/2fD9gqpaIfSeQECVTSSdbmLm+is4y8Ghqg9isk/n/MAvadgKLigRcUFZtXUVGUMmqBf0eYC3cRqULndLJvg9Dd4LeEl9eu4VrV0TPRJStNx63kOqKdiZjr/dcJdChNPYcwSDlcdJFKHFJg090dB3EW13pTK5oe9+W5vqpM7pkko5NgYtUDPxlAWBIVZjr3nk88F72vvJjev72PSiCbrpmSwwYUMhlAtqLRZnNf8j26n9XDXITt+94GpvWubZwlzo3IccbT5SZWjJulIt5CgwusOdWLydXxZzQVhjal/cDFEBAn8OpB9OYkLgdr0rDxCPyVvwGV0nG3ib488="
+                "value": "3YJAkK9a6MyZR735XqRlMMoIzYLl/4LmJn3B/9v7xE0jFmWQYXrADGOGGVQcRQZBipv0ukcFlEDAfaC5jpvbFOnGWk6/2fD9gqpaIfSeQECVTSSdbmLm+is4y8Ghqg9isk/n/MAvadgKLigRcUFZtXUVGUMmqBf0eYC3cRqULndLJvg9Dd4LeEl9eu4VrV0TPRJStNx63kOqKdiZjr/dcJdChNPYcwSDlcdJFKHFJg090dB3EW13pTK5oe9+W5vqpM7pkko5NgYtUDPxlAWBIVZjr3nk88F72vvJjev72PSiCbrpmSwwYUMhlAtqLRZnNf8j26n9XDXITt+94GpvWubZwlzo3IccbT5SZWjJulIt5CgwusOdWLydXxZzQVhjal/cDFEBAn8OpB9OYkLgdieycvzRI8bkxG+p6RXvMgkvYi9z265A52mHYBPXv12fvFgZEGVWyq8wGkx+xfx3QKYVfqVFX8ldgbLSLwH469O2adAzXlfQPwHge//B3LVHm4O20xgAjWXRTw0YQcGN7vM/DD6bRNQ2en99Oe0iyar1jK9WSXevW1QWRhs3/yqysvcZUUnxvvfQXKgQ9uAmllM9RsWoJj/b210iSDgenT5nFqbtI4jLEv7oEzB9EixFAQRZsH1s4E75WAlOKn/QyIYez/7jXa8J8tvXIov/cYM="
             }
         ],
         "52BDAF86": [
@@ -3799,12 +3583,12 @@
         ],
         "57BBF070": [
             {
-                "value": 452
+                "value": 453
             }
         ],
         "A8443DB2": [
             {
-                "value": 452
+                "value": 453
             }
         ],
         "3A32957": [
@@ -3820,6 +3604,21 @@
         "FEB829D9": [
             {
                 "value": 20000
+            }
+        ],
+        "F4C18B94": [
+            {
+                "value": 3.0
+            }
+        ],
+        "42291054": [
+            {
+                "value": 3.0
+            }
+        ],
+        "EFD68C16": [
+            {
+                "value": 30000
             }
         ]
     }
