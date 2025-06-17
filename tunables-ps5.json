@@ -4,16 +4,13 @@
     "tunablePool": 2500,
     "contentlists": [
         [
-            -120836174,
-            1456923221,
-            337416671,
-            2095971607,
-            -1052944277,
-            63766943,
-            -1685988996,
-            2025351322,
-            239614544,
-            186822269,
+            -1558617903,
+            706341464,
+            1355616052,
+            -1435225145,
+            678618077,
+            1084528268,
+            -500364955,
             1478480967,
             -1229786443,
             644918537,
@@ -21,33 +18,355 @@
             1911516665,
             -267975969,
             -344085991
-        ],
-        [
-            1120762277,
-            -833749804,
-            1454264907,
-            -1165309910,
-            554108128,
-            1926811590
         ]
     ],
     "tunables": {
-        "A44D0C1F": [
+        "3A32957": [
             {
-                "value": 63.0
+                "value": 2.0
             }
         ],
-        "A49195FF": [
+        "510AAE17": [
             {
-                "value": 60000
+                "value": 2.0
             }
         ],
-        "7B7191F7": [
+        "FEB829D9": [
+            {
+                "value": 20000
+            }
+        ],
+        "457ADE10": [
+            {
+                "value": 2.0
+            }
+        ],
+        "92E262D0": [
+            {
+                "value": 2.0
+            }
+        ],
+        "408FDE92": [
+            {
+                "value": 20000
+            }
+        ],
+        "9A9FA4EB": [
             {
                 "value": true
             }
         ],
-        "A7DDC129": [
+        "17BA4F04": [
+            {
+                "value": true
+            }
+        ],
+        "63AD8FC3": [
+            {
+                "value": true
+            }
+        ],
+        "68E8AF97": [
+            {
+                "value": true
+            }
+        ],
+        "1DF80A07": [
+            {
+                "value": true
+            }
+        ],
+        "4C18D789": [
+            {
+                "value": true
+            }
+        ],
+        "18190E5E": [
+            {
+                "value": true
+            }
+        ],
+        "18AB2CA3": [
+            {
+                "value": true
+            }
+        ],
+        "8CE5CC56": [
+            {
+                "value": true
+            }
+        ],
+        "FE9AA6DE": [
+            {
+                "value": true
+            }
+        ],
+        "48B8B858": [
+            {
+                "value": true
+            }
+        ],
+        "517D15CE": [
+            {
+                "value": true
+            }
+        ],
+        "D11CE343": [
+            {
+                "value": true
+            }
+        ],
+        "5C9E5717": [
+            {
+                "value": true
+            }
+        ],
+        "A5790BFC": [
+            {
+                "value": true
+            }
+        ],
+        "56061E57": [
+            {
+                "value": true
+            }
+        ],
+        "E585CBB9": [
+            {
+                "value": true
+            }
+        ],
+        "3D8B0680": [
+            {
+                "value": true
+            }
+        ],
+        "2FC13B34": [
+            {
+                "value": true
+            }
+        ],
+        "4AF0D03B": [
+            {
+                "value": true
+            }
+        ],
+        "3525CC85": [
+            {
+                "value": true
+            }
+        ],
+        "E023D653": [
+            {
+                "value": true
+            }
+        ],
+        "4349115E": [
+            {
+                "value": true
+            }
+        ],
+        "8A0335A8": [
+            {
+                "value": true
+            }
+        ],
+        "B4B96FD0": [
+            {
+                "value": true
+            }
+        ],
+        "60A07180": [
+            {
+                "value": true
+            }
+        ],
+        "4B516D50": [
+            {
+                "value": true
+            }
+        ],
+        "3A6B1E27": [
+            {
+                "value": true
+            }
+        ],
+        "D8339395": [
+            {
+                "value": true
+            }
+        ],
+        "A74AB7F7": [
+            {
+                "value": true
+            }
+        ],
+        "438E8BE4": [
+            {
+                "value": true
+            }
+        ],
+        "C6FD6AB8": [
+            {
+                "value": true
+            }
+        ],
+        "DB388B54": [
+            {
+                "value": true
+            }
+        ],
+        "C0E9E24F": [
+            {
+                "value": true
+            }
+        ],
+        "1B5BC8DC": [
+            {
+                "value": true
+            }
+        ],
+        "5A93919": [
+            {
+                "value": true
+            }
+        ],
+        "5856D73F": [
+            {
+                "value": true
+            }
+        ],
+        "8AA1FD28": [
+            {
+                "value": true
+            }
+        ],
+        "B4AC0889": [
+            {
+                "value": true
+            }
+        ],
+        "AB0C9FA9": [
+            {
+                "value": true
+            }
+        ],
+        "7E8B0050": [
+            {
+                "value": true
+            }
+        ],
+        "6718102C": [
+            {
+                "value": true
+            }
+        ],
+        "FB48395C": [
+            {
+                "value": true
+            }
+        ],
+        "E4581513": [
+            {
+                "value": 2147483647
+            }
+        ],
+        "CE9EE9A1": [
+            {
+                "value": 1073741823
+            }
+        ],
+        "C2DA035": [
+            {
+                "value": 4095
+            }
+        ],
+        "72EC7973": [
+            {
+                "value": 4095
+            }
+        ],
+        "462A5A15": [
+            {
+                "value": 4095
+            }
+        ],
+        "5E9B874C": [
+            {
+                "value": false
+            }
+        ],
+        "C982228B": [
+            {
+                "value": false
+            }
+        ],
+        "DA690295": [
+            {
+                "value": true
+            }
+        ],
+        "7AEA852A": [
+            {
+                "value": 14
+            }
+        ],
+        "1AE438F2": [
+            {
+                "value": true
+            }
+        ],
+        "526E9B81": [
+            {
+                "value": true
+            }
+        ],
+        "A6136A79": [
+            {
+                "value": true
+            }
+        ],
+        "461BF7BC": [
+            {
+                "value": true
+            }
+        ],
+        "8550CE2B": [
+            {
+                "value": true
+            }
+        ],
+        "57692DC3": [
+            {
+                "value": true
+            }
+        ],
+        "427E6AA8": [
+            {
+                "value": true
+            }
+        ],
+        "A7EC4FE3": [
+            {
+                "value": true
+            }
+        ],
+        "3A2CE9B3": [
+            {
+                "value": true
+            }
+        ],
+        "8E84A454": [
+            {
+                "value": true
+            }
+        ],
+        "CBF1A793": [
+            {
+                "value": true
+            }
+        ],
+        "3899634F": [
             {
                 "value": true
             }
@@ -99,7 +418,7 @@
         ],
         "E532407E": [
             {
-                "value": 101
+                "value": 105
             }
         ],
         "54531EC2": [
@@ -109,7 +428,7 @@
         ],
         "43F57E07": [
             {
-                "value": 101
+                "value": 105
             }
         ],
         "B5AC6173": [
@@ -119,7 +438,7 @@
         ],
         "A78BC532": [
             {
-                "value": 101
+                "value": 105
             }
         ],
         "94788AC": [
@@ -129,7 +448,7 @@
         ],
         "FCE7EFED": [
             {
-                "value": 101
+                "value": 105
             }
         ],
         "6E7AD311": [
@@ -139,7 +458,7 @@
         ],
         "60343684": [
             {
-                "value": 101
+                "value": 105
             }
         ],
         "7B6CBA8A": [
@@ -149,7 +468,7 @@
         ],
         "87B05311": [
             {
-                "value": 101
+                "value": 105
             }
         ],
         "5EE5817C": [
@@ -159,67 +478,52 @@
         ],
         "AA0614AB": [
             {
-                "value": -1628825716
+                "value": -1626258964
             }
         ],
         "2082E0D5": [
             {
-                "value": 1809024653
+                "value": -1578681430
             }
         ],
         "C91AA5AA": [
             {
-                "value": -1158951566
+                "value": -268902384
             }
         ],
         "76FBBBA6": [
             {
-                "value": 901791772
+                "value": -363899673
             }
         ],
         "928D9451": [
             {
-                "value": 1944671355
+                "value": 2077644433
             }
         ],
         "262972EB": [
             {
-                "value": 747327897
+                "value": -1456214004
             }
         ],
         "D4A46D93": [
             {
-                "value": -253571008
-            }
-        ],
-        "7AEDDD74": [
-            {
-                "value": -290406445
-            }
-        ],
-        "5AC0DAD6": [
-            {
-                "value": 498325708
-            }
-        ],
-        "5C5ED373": [
-            {
-                "value": 2102589219
+                "value": 122986663
             }
         ],
         "EC66EBF8": [
             {
-                "value": 10
+                "value": 7
             }
         ],
         "C11CF637": [
             {
-                "value": 30
+                "value": 10
             }
         ],
         "7B5C61B3": [
             {
-                "value": 1
+                "value": 2
             }
         ],
         "F0592150": [
@@ -1904,7 +2208,7 @@
         ],
         "CD8F5BBD": [
             {
-                "value": -1556328366
+                "value": 1946452244
             }
         ],
         "12B94542": [
@@ -1939,7 +2243,7 @@
         ],
         "4400A5": [
             {
-                "value": 7
+                "value": 8
             }
         ],
         "4885DCED": [
@@ -1949,22 +2253,22 @@
         ],
         "A60F96E4": [
             {
-                "value": 1
+                "value": 2
             }
         ],
         "74A7E7E1": [
             {
-                "value": 8
+                "value": 9
             }
         ],
         "D97580D6": [
             {
-                "value": -1758379524
+                "value": -1491268273
             }
         ],
         "B042037B": [
             {
-                "value": 111
+                "value": 171
             }
         ],
         "7DE3A339": [
@@ -1974,17 +2278,17 @@
         ],
         "B6390F69": [
             {
-                "value": 38
+                "value": 170
             }
         ],
         "9E144309": [
             {
-                "value": 0
+                "value": 92
             }
         ],
         "49429963": [
             {
-                "value": 41
+                "value": 0
             }
         ],
         "573C5175": [
@@ -1999,22 +2303,22 @@
         ],
         "8F5C3A49": [
             {
-                "value": 4
+                "value": 7
             }
         ],
         "8B04EBF3": [
             {
-                "value": 12
+                "value": 3
             }
         ],
         "3127B3E5": [
             {
-                "value": 7
+                "value": 15
             }
         ],
         "6C935B9C": [
             {
-                "value": 2
+                "value": 1
             }
         ],
         "63F0C63F": [
@@ -2034,72 +2338,72 @@
         ],
         "843A96CF": [
             {
-                "value": 2
+                "value": 3
             }
         ],
         "10791DF0": [
             {
-                "value": 2
+                "value": 3
             }
         ],
         "73FB1E54": [
             {
-                "value": 7
+                "value": 0
             }
         ],
         "946237CB": [
             {
-                "value": 2
+                "value": 3
             }
         ],
         "8371FEDA": [
             {
-                "value": 14
+                "value": 4
             }
         ],
         "676546FD": [
             {
-                "value": 13
+                "value": 4
             }
         ],
         "21BF3F7E": [
             {
-                "value": 12
+                "value": 8
             }
         ],
         "8BDDCD93": [
             {
-                "value": 4
+                "value": 5
             }
         ],
         "58D7CF13": [
             {
-                "value": 2
+                "value": 14
             }
         ],
         "26657987": [
             {
-                "value": 4
+                "value": 1
             }
         ],
         "2FF18A2C": [
             {
-                "value": 17
+                "value": 5
             }
         ],
         "3716971D": [
             {
-                "value": 12
+                "value": 0
             }
         ],
         "7AA19E36": [
             {
-                "value": 5
+                "value": 2
             }
         ],
         "F38DC16": [
             {
-                "value": 2
+                "value": 0
             }
         ],
         "F73290EE": [
@@ -2139,7 +2443,7 @@
         ],
         "C7416242": [
             {
-                "value": false
+                "value": true
             }
         ],
         "D415EAA8": [
@@ -2149,42 +2453,42 @@
         ],
         "236C7B57": [
             {
-                "value": -1507230520
+                "value": 917809321
             }
         ],
         "BC007E11": [
             {
-                "value": 5
+                "value": 12
             }
         ],
         "310D682D": [
             {
-                "value": 28
+                "value": 131
             }
         ],
         "82282FC3": [
             {
-                "value": 111
+                "value": 0
             }
         ],
         "8D74464F": [
             {
-                "value": 156
+                "value": 5
             }
         ],
         "74D8EFC3": [
             {
-                "value": 5
+                "value": 112
             }
         ],
         "E623D257": [
             {
-                "value": 134
+                "value": 0
             }
         ],
         "59AF5BAC": [
             {
-                "value": 6
+                "value": 0
             }
         ],
         "4B3B75B": [
@@ -2204,67 +2508,67 @@
         ],
         "18491587": [
             {
-                "value": 3
+                "value": 2
             }
         ],
         "13659F64": [
             {
-                "value": 199
+                "value": 200
             }
         ],
         "24D8F2C4": [
             {
-                "value": 1706945532
+                "value": -208911803
             }
         ],
         "8F976BB3": [
             {
-                "value": 91
+                "value": 4
             }
         ],
         "CC81E587": [
             {
-                "value": 12
+                "value": 28
             }
         ],
         "C4225E4": [
             {
-                "value": 91
+                "value": 111
             }
         ],
         "F687FA70": [
             {
-                "value": 91
+                "value": 111
             }
         ],
         "C42C54D4": [
             {
-                "value": 156
+                "value": 3
             }
         ],
         "B502B681": [
             {
-                "value": 0
+                "value": 111
             }
         ],
         "681D9024": [
             {
-                "value": 9
+                "value": 6
             }
         ],
         "F65143F0": [
             {
-                "value": 12
+                "value": 7
             }
         ],
         "D725C195": [
             {
-                "value": 2
+                "value": 0
             }
         ],
         "EA2A5931": [
             {
-                "value": 1
+                "value": 0
             }
         ],
         "B7D6ECA": [
@@ -2274,7 +2578,7 @@
         ],
         "B7814D53": [
             {
-                "value": -1.75
+                "value": -1.88
             }
         ],
         "919B0187": [
@@ -2284,72 +2588,72 @@
         ],
         "7AA47D9D": [
             {
-                "value": -4.6
+                "value": -4.9
             }
         ],
         "31FBFF3E": [
             {
-                "value": 767087018
+                "value": 390201602
             }
         ],
         "2B6BB01": [
             {
-                "value": 1
+                "value": 111
             }
         ],
         "14D65F40": [
             {
-                "value": 12
+                "value": 28
             }
         ],
         "62E22A58": [
             {
-                "value": 5
+                "value": 0
             }
         ],
         "74A3CDDB": [
             {
-                "value": 156
+                "value": 112
             }
         ],
         "39782883": [
             {
-                "value": 0
+                "value": 111
             }
         ],
         "4BDDCD4E": [
             {
-                "value": 0
+                "value": 111
             }
         ],
         "80B60617": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "C07314C4": [
             {
-                "value": 298565713
+                "value": 1753414259
             }
         ],
         "D0AD6D48": [
             {
-                "value": 154
+                "value": 89
             }
         ],
         "2EBD1C4": [
             {
-                "value": 154
+                "value": 0
             }
         ],
         "935134F0": [
             {
-                "value": 0
+                "value": 88
             }
         ],
         "D8FDC038": [
             {
-                "value": 154
+                "value": 156
             }
         ],
         "D0776CE4": [
@@ -2359,22 +2663,22 @@
         ],
         "339D268": [
             {
-                "value": 153
+                "value": 0
             }
         ],
         "4C6BDC4C": [
             {
-                "value": 5
+                "value": 0
             }
         ],
         "81F1EE65": [
             {
-                "value": 2072687711
+                "value": -1532697517
             }
         ],
         "59D60051": [
             {
-                "value": 28
+                "value": 146
             }
         ],
         "BF7D4B9E": [
@@ -2384,82 +2688,82 @@
         ],
         "D007C455": [
             {
-                "value": 28
+                "value": 145
             }
         ],
         "D41CCC7F": [
             {
-                "value": 156
+                "value": 112
             }
         ],
         "BB09C2DB": [
             {
-                "value": 0
+                "value": 93
             }
         ],
         "F536B734": [
             {
-                "value": 0
+                "value": 65
             }
         ],
         "D166F5C3": [
             {
-                "value": 0
+                "value": 10
             }
         ],
         "F3786B3D": [
             {
-                "value": -331467772
+                "value": 1761301369
             }
         ],
         "6F548C38": [
             {
-                "value": 10
+                "value": 146
             }
         ],
         "EC1C85CE": [
             {
-                "value": 89
+                "value": 9
             }
         ],
         "F9524050": [
             {
-                "value": 89
+                "value": 105
             }
         ],
         "2F082BBB": [
             {
-                "value": 89
+                "value": 0
             }
         ],
         "B6501A2E": [
             {
-                "value": 89
+                "value": 93
             }
         ],
         "33381404": [
             {
-                "value": 0
+                "value": 134
             }
         ],
         "EBEDBBE7": [
             {
-                "value": 9
+                "value": 5
             }
         ],
         "F97EB7D8": [
             {
-                "value": 12
+                "value": 7
             }
         ],
         "50C991B5": [
             {
-                "value": 28
+                "value": 0
             }
         ],
         "DE9F5912": [
             {
-                "value": 3
+                "value": 0
             }
         ],
         "BD3B49F0": [
@@ -2469,47 +2773,47 @@
         ],
         "3A8DBF9A": [
             {
-                "value": -1244461404
+                "value": 554408685
             }
         ],
         "E5676DA9": [
             {
-                "value": 65
+                "value": 12
             }
         ],
         "D315C906": [
             {
-                "value": 65
+                "value": 0
             }
         ],
         "44DE1085": [
             {
-                "value": 87
+                "value": 0
             }
         ],
         "34BCF043": [
             {
-                "value": 156
+                "value": 0
             }
         ],
         "407DA3D8": [
             {
-                "value": 5
+                "value": 93
             }
         ],
         "2E177F0C": [
             {
-                "value": 111
+                "value": 134
             }
         ],
         "45C0C22D": [
             {
-                "value": 8
+                "value": 6
             }
         ],
         "CD07883": [
             {
-                "value": 7
+                "value": 0
             }
         ],
         "8BF90399": [
@@ -2529,7 +2833,7 @@
         ],
         "FB4A392": [
             {
-                "value": 301427732
+                "value": 838982985
             }
         ],
         "BC6966EA": [
@@ -2539,22 +2843,22 @@
         ],
         "A80BBE2F": [
             {
-                "value": 53
+                "value": 0
             }
         ],
         "EBB5E6E2": [
             {
-                "value": 0
+                "value": 5
             }
         ],
         "B9D80327": [
             {
-                "value": 156
+                "value": 0
             }
         ],
         "439AF54F": [
             {
-                "value": 0
+                "value": 94
             }
         ],
         "6EF44C01": [
@@ -2564,17 +2868,17 @@
         ],
         "7AC2A452": [
             {
-                "value": 0
+                "value": 10
             }
         ],
         "DE2F38ED": [
             {
-                "value": 6
+                "value": 0
             }
         ],
         "1E2EAED5": [
             {
-                "value": 0
+                "value": 2
             }
         ],
         "632ABE0E": [
@@ -2589,47 +2893,47 @@
         ],
         "C5D4F2A2": [
             {
-                "value": 719660200
+                "value": 1966698497
             }
         ],
         "BDB6E63": [
             {
-                "value": 41
+                "value": 50
             }
         ],
         "1C0A0EC0": [
             {
-                "value": 12
+                "value": 0
             }
         ],
         "8767105A": [
             {
-                "value": 0
+                "value": 53
             }
         ],
         "74F86B7D": [
             {
-                "value": 156
+                "value": 0
             }
         ],
         "6C8E43E": [
             {
-                "value": 0
+                "value": 93
             }
         ],
         "D3027CB2": [
             {
-                "value": 0
+                "value": 134
             }
         ],
         "96D1C371": [
             {
-                "value": 0
+                "value": 7
             }
         ],
         "C139E220": [
             {
-                "value": 0
+                "value": 5
             }
         ],
         "6A9C2A3B": [
@@ -2649,22 +2953,22 @@
         ],
         "C1111A36": [
             {
-                "value": -1205801634
+                "value": -941272559
             }
         ],
         "D88A1001": [
             {
-                "value": 68
+                "value": 146
             }
         ],
         "AA00B2EB": [
             {
-                "value": 112
+                "value": 88
             }
         ],
         "2D6DBEB5": [
             {
-                "value": 68
+                "value": 145
             }
         ],
         "5FC62369": [
@@ -2674,12 +2978,12 @@
         ],
         "1DFF9AEB": [
             {
-                "value": 0
+                "value": 14
             }
         ],
         "F0DA40A1": [
             {
-                "value": 0
+                "value": 88
             }
         ],
         "B6740B17": [
@@ -2689,7 +2993,7 @@
         ],
         "8D866CC9": [
             {
-                "value": 1
+                "value": 0
             }
         ],
         "C8C7D825": [
@@ -2709,22 +3013,22 @@
         ],
         "49438DA5": [
             {
-                "value": 1617472902
+                "value": -1585673997
             }
         ],
         "7A7FF9D6": [
             {
-                "value": 107
+                "value": 138
             }
         ],
         "8B059AE1": [
             {
-                "value": 41
+                "value": 27
             }
         ],
         "6A16DE11": [
             {
-                "value": 107
+                "value": 89
             }
         ],
         "57C03964": [
@@ -2734,22 +3038,22 @@
         ],
         "43FE0CD3": [
             {
-                "value": 36
+                "value": 99
             }
         ],
         "141A2D18": [
             {
-                "value": 156
+                "value": 90
             }
         ],
         "45730C17": [
             {
-                "value": 8
+                "value": 9
             }
         ],
         "9A11163E": [
             {
-                "value": 1
+                "value": 7
             }
         ],
         "6DA4F906": [
@@ -2769,22 +3073,22 @@
         ],
         "34529CE5": [
             {
-                "value": 600450546
+                "value": 1580292663
             }
         ],
         "7DEBB7F9": [
             {
-                "value": 146
+                "value": 4
             }
         ],
         "5525E66E": [
             {
-                "value": 146
+                "value": 111
             }
         ],
         "589CF240": [
             {
-                "value": 145
+                "value": 111
             }
         ],
         "3DE4BCD0": [
@@ -2794,22 +3098,22 @@
         ],
         "D2B16187": [
             {
-                "value": 13
+                "value": 93
             }
         ],
         "8DEF5800": [
             {
-                "value": 111
+                "value": 134
             }
         ],
         "8EC2505A": [
             {
-                "value": 3
+                "value": 5
             }
         ],
         "FF5DF632": [
             {
-                "value": 1
+                "value": 0
             }
         ],
         "3052DA6E": [
@@ -2827,474 +3131,339 @@
                 "value": 0
             }
         ],
-        "9A9FA4EB": [
+        "FCCC88FC": [
+            {
+                "value": 14336
+            }
+        ],
+        "81F91588": [
             {
                 "value": true
             }
         ],
-        "17BA4F04": [
+        "693DDAA5": [
+            {
+                "value": false
+            }
+        ],
+        "7B0FA546": [
+            {
+                "value": false
+            }
+        ],
+        "274CFE55": [
             {
                 "value": true
             }
         ],
-        "63AD8FC3": [
+        "4EDA24FD": [
+            {
+                "value": false
+            }
+        ],
+        "23D1E5A5": [
             {
                 "value": true
             }
         ],
-        "68E8AF97": [
+        "BB29A550": [
             {
                 "value": true
             }
         ],
-        "1DF80A07": [
+        "9A2A9D71": [
+            {
+                "value": false
+            }
+        ],
+        "ACA0652C": [
             {
                 "value": true
             }
         ],
-        "4C18D789": [
+        "C23F5B2C": [
+            {
+                "value": false
+            }
+        ],
+        "B1B485B6": [
+            {
+                "value": false
+            }
+        ],
+        "138C6B77": [
             {
                 "value": true
             }
         ],
-        "18190E5E": [
+        "F36CC6E3": [
+            {
+                "value": false
+            }
+        ],
+        "1D08A0D3": [
+            {
+                "value": false
+            }
+        ],
+        "96F2122D": [
+            {
+                "value": false
+            }
+        ],
+        "8E6B3F2B": [
+            {
+                "value": false
+            }
+        ],
+        "BC5DCD5F": [
+            {
+                "value": false
+            }
+        ],
+        "E7CAE4AB": [
+            {
+                "value": 2147483647
+            }
+        ],
+        "B5137F3D": [
+            {
+                "value": 524287
+            }
+        ],
+        "586905FF": [
             {
                 "value": true
             }
         ],
-        "18AB2CA3": [
+        "4B6F19A2": [
+            {
+                "value": false
+            }
+        ],
+        "ECBDC304": [
             {
                 "value": true
             }
         ],
-        "8CE5CC56": [
+        "17408DBE": [
+            {
+                "value": false
+            }
+        ],
+        "26744459": [
+            {
+                "value": false
+            }
+        ],
+        "6A3F8DB4": [
+            {
+                "value": false
+            }
+        ],
+        "561D9B0F": [
+            {
+                "value": false
+            }
+        ],
+        "243EB924": [
+            {
+                "value": 196822
+            }
+        ],
+        "C53BF029": [
+            {
+                "value": 196822
+            }
+        ],
+        "10502DAD": [
+            {
+                "value": 196822
+            }
+        ],
+        "8AC34BD7": [
+            {
+                "value": -1921512137
+            }
+        ],
+        "55544D72": [
+            {
+                "value": -1211179857
+            }
+        ],
+        "78494E58": [
+            {
+                "value": -226731595
+            }
+        ],
+        "9D49589F": [
             {
                 "value": true
             }
         ],
-        "FE9AA6DE": [
-            {
-                "value": true
-            }
-        ],
-        "48B8B858": [
-            {
-                "value": true
-            }
-        ],
-        "517D15CE": [
-            {
-                "value": true
-            }
-        ],
-        "D11CE343": [
-            {
-                "value": true
-            }
-        ],
-        "5C9E5717": [
-            {
-                "value": true
-            }
-        ],
-        "A5790BFC": [
-            {
-                "value": true
-            }
-        ],
-        "56061E57": [
-            {
-                "value": true
-            }
-        ],
-        "E585CBB9": [
-            {
-                "value": true
-            }
-        ],
-        "3D8B0680": [
-            {
-                "value": true
-            }
-        ],
-        "2FC13B34": [
-            {
-                "value": true
-            }
-        ],
-        "4AF0D03B": [
-            {
-                "value": true
-            }
-        ],
-        "3525CC85": [
-            {
-                "value": true
-            }
-        ],
-        "E023D653": [
-            {
-                "value": true
-            }
-        ],
-        "4349115E": [
-            {
-                "value": true
-            }
-        ],
-        "8A0335A8": [
-            {
-                "value": true
-            }
-        ],
-        "B4B96FD0": [
-            {
-                "value": true
-            }
-        ],
-        "60A07180": [
-            {
-                "value": true
-            }
-        ],
-        "4B516D50": [
-            {
-                "value": true
-            }
-        ],
-        "3A6B1E27": [
-            {
-                "value": true
-            }
-        ],
-        "D8339395": [
-            {
-                "value": true
-            }
-        ],
-        "A74AB7F7": [
-            {
-                "value": true
-            }
-        ],
-        "438E8BE4": [
-            {
-                "value": true
-            }
-        ],
-        "C6FD6AB8": [
-            {
-                "value": true
-            }
-        ],
-        "DB388B54": [
-            {
-                "value": true
-            }
-        ],
-        "C0E9E24F": [
-            {
-                "value": true
-            }
-        ],
-        "1B5BC8DC": [
-            {
-                "value": true
-            }
-        ],
-        "5A93919": [
-            {
-                "value": true
-            }
-        ],
-        "5856D73F": [
-            {
-                "value": true
-            }
-        ],
-        "8AA1FD28": [
-            {
-                "value": true
-            }
-        ],
-        "B4AC0889": [
-            {
-                "value": true
-            }
-        ],
-        "AB0C9FA9": [
-            {
-                "value": true
-            }
-        ],
-        "7E8B0050": [
-            {
-                "value": true
-            }
-        ],
-        "6718102C": [
+        "F8D7585E": [
             {
                 "value": true
             }
         ],
         "194F59DA": [
             {
-                "value": 1729861220
+                "value": 1761397220
             }
         ],
         "EE044FC": [
             {
-                "value": 1729861220
+                "value": 1761397220
             }
         ],
         "BCA1207F": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "D46B5013": [
             {
-                "value": 1729861220
+                "value": 1761397220
             }
         ],
         "51F2CB1C": [
             {
-                "value": 1729861220
+                "value": 1761397220
             }
         ],
         "47A9B68A": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "FB5C1DF4": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "E928798D": [
             {
-                "value": 1729861220
+                "value": 1761397220
             }
         ],
         "6F078545": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "9E716418": [
             {
-                "value": 1729861220
+                "value": 1761397220
             }
         ],
         "60A9924C": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "B8BCC271": [
             {
-                "value": 1729861220
+                "value": 1761397220
             }
         ],
         "CA5465A0": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "8F12EF1E": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "A9A9244A": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "8B16259": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "EE5D2DB1": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
         "DF1B8F2E": [
             {
-                "value": 1729861220
+                "value": 1746459015
             }
         ],
-        "FCCC88FC": [
+        "70F43BB5": [
             {
-                "value": 1024
+                "value": 768
             }
         ],
-        "58DA18C3": [
+        "C76FA7BE": [
             {
-                "value": true
+                "value": 64
             }
         ],
-        "53A2FB65": [
+        "CB56B7CE": [
             {
-                "value": true
+                "value": 256
             }
         ],
-        "4EB8963": [
+        "7BCCFA51": [
             {
-                "value": true
+                "value": 32
             }
         ],
-        "3DEC0732": [
+        "BDD30659": [
             {
-                "value": true
+                "value": 2112
             }
         ],
-        "9CB81693": [
+        "EDF8EDCE": [
             {
-                "value": true
+                "value": 2
             }
         ],
-        "FB48395C": [
+        "19ADF3DD": [
             {
-                "value": true
+                "value": 512
             }
         ],
-        "2E7D8492": [
+        "69D35E84": [
             {
-                "value": true
+                "value": 256
             }
         ],
-        "E4581513": [
+        "5520F874": [
             {
-                "value": 2147483647
+                "value": 512
             }
         ],
-        "CE9EE9A1": [
+        "B6B72A56": [
             {
-                "value": 536870911
-            }
-        ],
-        "C2DA035": [
-            {
-                "value": 4095
-            }
-        ],
-        "72EC7973": [
-            {
-                "value": 4095
-            }
-        ],
-        "462A5A15": [
-            {
-                "value": 4095
-            }
-        ],
-        "5E9B874C": [
-            {
-                "value": false
-            }
-        ],
-        "C982228B": [
-            {
-                "value": false
-            }
-        ],
-        "DA690295": [
-            {
-                "value": true
-            }
-        ],
-        "CBF1A793": [
-            {
-                "value": true
-            }
-        ],
-        "7AEA852A": [
-            {
-                "value": 14
-            }
-        ],
-        "1AE438F2": [
-            {
-                "value": true
-            }
-        ],
-        "526E9B81": [
-            {
-                "value": true
-            }
-        ],
-        "A6136A79": [
-            {
-                "value": true
-            }
-        ],
-        "461BF7BC": [
-            {
-                "value": true
-            }
-        ],
-        "8550CE2B": [
-            {
-                "value": true
-            }
-        ],
-        "E2D036F5": [
-            {
-                "value": true
-            }
-        ],
-        "57692DC3": [
-            {
-                "value": true
-            }
-        ],
-        "427E6AA8": [
-            {
-                "value": true
-            }
-        ],
-        "A7EC4FE3": [
-            {
-                "value": true
-            }
-        ],
-        "3A2CE9B3": [
-            {
-                "value": true
-            }
-        ],
-        "8E84A454": [
-            {
-                "value": true
-            }
-        ],
-        "3899634F": [
-            {
-                "value": true
+                "value": 128
             }
         ],
         "FF360F1B": [
             {
-                "value": -465825307
+                "value": 687627128
             }
         ],
         "8F0CD05F": [
             {
-                "value": 209
+                "value": 171
             }
         ],
         "7C722B2A": [
             {
-                "value": 131
+                "value": 191
             }
         ],
         "A1A730C8": [
             {
-                "value": 208
+                "value": 92
             }
         ],
         "994E2016": [
@@ -3304,37 +3473,37 @@
         ],
         "B9AEA5A6": [
             {
-                "value": 1
+                "value": 92
             }
         ],
         "A80D0263": [
             {
-                "value": 0
+                "value": 134
             }
         ],
         "BADFCB8E": [
             {
-                "value": 5
+                "value": 10
             }
         ],
         "1D16C9A8": [
             {
-                "value": 11
+                "value": 7
             }
         ],
         "57D7FFDD": [
             {
-                "value": 18
+                "value": 11
             }
         ],
         "30F3F442": [
             {
-                "value": 3
+                "value": 1
             }
         ],
         "CB8240A9": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "1A3C3F": [
@@ -3344,17 +3513,17 @@
         ],
         "2111F598": [
             {
-                "value": 1
+                "value": 4
             }
         ],
         "CA3EEC67": [
             {
-                "value": 2
+                "value": 4
             }
         ],
         "4D7E17A3": [
             {
-                "value": 3
+                "value": 8
             }
         ],
         "130AC9AB": [
@@ -3364,7 +3533,7 @@
         ],
         "2054F5D4": [
             {
-                "value": 6
+                "value": 12
             }
         ],
         "905C73A": [
@@ -3374,57 +3543,57 @@
         ],
         "ACA32D2B": [
             {
-                "value": 13
+                "value": 17
             }
         ],
         "B6BDBDAA": [
             {
-                "value": 5
+                "value": 16
             }
         ],
         "3E01E36A": [
             {
-                "value": 5
+                "value": 0
             }
         ],
         "51118989": [
             {
-                "value": 4
+                "value": 0
             }
         ],
         "E82BD338": [
             {
-                "value": 2
+                "value": 0
             }
         ],
         "6DC5FC1E": [
             {
-                "value": 2
+                "value": 0
             }
         ],
         "6D499DF6": [
             {
-                "value": 7
+                "value": 0
             }
         ],
         "C64336C0": [
             {
-                "value": 12
+                "value": 5
             }
         ],
         "71047196": [
             {
-                "value": 1
+                "value": 0
             }
         ],
         "3D8D1BA4": [
             {
-                "value": 3
+                "value": 255
             }
         ],
         "FB681797": [
             {
-                "value": 83
+                "value": 0
             }
         ],
         "503E4142": [
@@ -3489,7 +3658,7 @@
         ],
         "5DF52B90": [
             {
-                "value": 4
+                "value": 0
             }
         ],
         "4A8704B4": [
@@ -3534,22 +3703,22 @@
         ],
         "D67AF496": [
             {
-                "value": true
+                "value": false
             }
         ],
         "6E460393": [
             {
-                "value": true
+                "value": false
             }
         ],
         "D4B8A08A": [
             {
-                "value": true
+                "value": false
             }
         ],
         "A607FD6A": [
             {
-                "value": true
+                "value": false
             }
         ],
         "D2D8BC6C": [
@@ -3559,7 +3728,7 @@
         ],
         "53E5EB2B": [
             {
-                "value": false
+                "value": true
             }
         ],
         "CA496CAB": [
@@ -3569,32 +3738,32 @@
         ],
         "ED23BF1A": [
             {
-                "value": 1483171323
+                "value": 1455990255
             }
         ],
         "70C2ED66": [
             {
-                "value": 112
+                "value": 161
             }
         ],
         "A2FC51D8": [
             {
-                "value": 27
+                "value": 161
             }
         ],
         "410FB0FB": [
             {
-                "value": 27
+                "value": 161
             }
         ],
         "70620F9F": [
             {
-                "value": 27
+                "value": 0
             }
         ],
         "CBBA2353": [
             {
-                "value": 27
+                "value": 150
             }
         ],
         "BE0987F2": [
@@ -3604,22 +3773,22 @@
         ],
         "87D0BFA": [
             {
-                "value": 0
+                "value": 11
             }
         ],
         "4392A85C": [
             {
-                "value": 12
+                "value": 2
             }
         ],
         "8C532567": [
             {
-                "value": 123
+                "value": 15
             }
         ],
         "257A85E1": [
             {
-                "value": 0
+                "value": 2
             }
         ],
         "8879D3F2": [
@@ -3629,22 +3798,22 @@
         ],
         "5CF1645": [
             {
-                "value": -619930876
+                "value": 1761301369
             }
         ],
         "C501DB68": [
             {
-                "value": 5
+                "value": 91
             }
         ],
         "446C5A3F": [
             {
-                "value": 54
+                "value": 0
             }
         ],
         "FB40782C": [
             {
-                "value": 54
+                "value": 91
             }
         ],
         "E8C8D331": [
@@ -3654,7 +3823,7 @@
         ],
         "7E184D96": [
             {
-                "value": 1
+                "value": 91
             }
         ],
         "FD72CC4D": [
@@ -3664,12 +3833,12 @@
         ],
         "F057433D": [
             {
-                "value": 12
+                "value": 9
             }
         ],
         "79FBACF5": [
             {
-                "value": 0
+                "value": 7
             }
         ],
         "638C798C": [
@@ -3689,17 +3858,17 @@
         ],
         "8A619BF9": [
             {
-                "value": 1748565021
+                "value": -1101107018
             }
         ],
         "26CC8B0C": [
             {
-                "value": 112
+                "value": 111
             }
         ],
         "7D073780": [
             {
-                "value": 53
+                "value": 0
             }
         ],
         "79497808": [
@@ -3714,17 +3883,17 @@
         ],
         "443B45E5": [
             {
-                "value": 98
+                "value": 93
             }
         ],
         "5281E272": [
             {
-                "value": 89
+                "value": 134
             }
         ],
         "75066082": [
             {
-                "value": 8
+                "value": 5
             }
         ],
         "95931756": [
@@ -3734,12 +3903,12 @@
         ],
         "93BAC0F4": [
             {
-                "value": 0
+                "value": 5
             }
         ],
         "B4366D12": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "7F3471F4": [
@@ -3749,52 +3918,52 @@
         ],
         "787F69B9": [
             {
-                "value": -1168952148
+                "value": 1966698497
             }
         ],
         "B704386F": [
             {
-                "value": 12
+                "value": 164
             }
         ],
         "57F6FA12": [
             {
-                "value": 138
+                "value": 0
             }
         ],
         "B96C8156": [
             {
-                "value": 0
+                "value": 164
             }
         ],
         "B20FE0": [
             {
-                "value": 138
+                "value": 90
             }
         ],
         "A5129448": [
             {
-                "value": 138
+                "value": 93
             }
         ],
         "96CBF7BB": [
             {
-                "value": 156
+                "value": 134
             }
         ],
         "3970E368": [
             {
-                "value": 2
+                "value": 4
             }
         ],
         "BC7E34A2": [
             {
-                "value": 7
+                "value": 4
             }
         ],
         "441B966D": [
             {
-                "value": 18
+                "value": 31
             }
         ],
         "6083A8E2": [
@@ -3809,57 +3978,57 @@
         ],
         "11F5B952": [
             {
-                "value": 1755697647
+                "value": -1585673997
             }
         ],
         "43A2C46A": [
             {
-                "value": 1
+                "value": 70
             }
         ],
         "E8E20EE6": [
             {
-                "value": 145
+                "value": 137
             }
         ],
         "99EF6837": [
             {
-                "value": 145
+                "value": 70
             }
         ],
         "833A3ACD": [
             {
-                "value": 134
+                "value": 0
             }
         ],
         "8BAE5480": [
             {
-                "value": 72
+                "value": 1
             }
         ],
         "7A68B1F5": [
             {
-                "value": 156
+                "value": 90
             }
         ],
         "43BF7843": [
             {
-                "value": 13
+                "value": 1
             }
         ],
         "15495173": [
             {
-                "value": 7
+                "value": 11
             }
         ],
         "CFCC5E70": [
             {
-                "value": 0
+                "value": 22
             }
         ],
         "9AE840B4": [
             {
-                "value": 0
+                "value": 3
             }
         ],
         "9001149D": [
@@ -3869,12 +4038,12 @@
         ],
         "54F0658C": [
             {
-                "value": -754687673
+                "value": 554408685
             }
         ],
         "682F9C70": [
             {
-                "value": 136
+                "value": 12
             }
         ],
         "7D75BA5": [
@@ -3884,42 +4053,42 @@
         ],
         "ACC1AF15": [
             {
-                "value": 5
+                "value": 0
             }
         ],
         "DA2B89E8": [
             {
-                "value": 156
+                "value": 0
             }
         ],
         "349DB531": [
             {
-                "value": 3
+                "value": 93
             }
         ],
         "B50E3614": [
             {
-                "value": 156
+                "value": 134
             }
         ],
         "BEAE9F5B": [
             {
-                "value": 10
+                "value": 0
             }
         ],
         "6D0568BD": [
             {
-                "value": 7
+                "value": 0
             }
         ],
         "85D17069": [
             {
-                "value": 0
+                "value": 11
             }
         ],
         "EDE9124": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "B3242AFA": [
@@ -3929,12 +4098,12 @@
         ],
         "47261DB4": [
             {
-                "value": -834353991
+                "value": -1508420500
             }
         ],
         "F30A136F": [
             {
-                "value": 70
+                "value": 90
             }
         ],
         "E4C476E4": [
@@ -3944,42 +4113,42 @@
         ],
         "885BEA4A": [
             {
-                "value": 70
+                "value": 89
             }
         ],
         "99B68CFF": [
             {
-                "value": 0
+                "value": 109
             }
         ],
         "3D11A77D": [
             {
-                "value": 4
+                "value": 93
             }
         ],
         "2BD004FA": [
             {
-                "value": 0
+                "value": 134
             }
         ],
         "678F6A6C": [
             {
-                "value": 4
+                "value": 6
             }
         ],
         "53D3E72A": [
             {
-                "value": 7
+                "value": 2
             }
         ],
         "BE200589": [
             {
-                "value": 0
+                "value": 2
             }
         ],
         "F7A61C35": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "B6E0B1E6": [
@@ -3989,32 +4158,32 @@
         ],
         "EF2A34C2": [
             {
-                "value": 886810209
+                "value": 340154634
             }
         ],
         "8CF3BC3D": [
             {
-                "value": 84
+                "value": 222
             }
         ],
         "7B3618C2": [
             {
-                "value": 131
+                "value": 111
             }
         ],
         "90A41993": [
             {
-                "value": 0
+                "value": 222
             }
         ],
         "A6F74639": [
             {
-                "value": 0
+                "value": 222
             }
         ],
         "D399498B": [
             {
-                "value": 19
+                "value": 8
             }
         ],
         "C9D73607": [
@@ -4024,17 +4193,17 @@
         ],
         "D399979E": [
             {
-                "value": 0
+                "value": 7
             }
         ],
         "729DBC1E": [
             {
-                "value": 1
+                "value": 10
             }
         ],
         "28821C4F": [
             {
-                "value": 0
+                "value": 13
             }
         ],
         "241CF343": [
@@ -4049,22 +4218,22 @@
         ],
         "7DB0A7A": [
             {
-                "value": 1031562256
+                "value": -1758379524
             }
         ],
         "F39E2920": [
             {
-                "value": 111
+                "value": 191
             }
         ],
         "E15F04A2": [
             {
-                "value": 29
+                "value": 0
             }
         ],
         "36DDFEF7": [
             {
-                "value": 0
+                "value": 89
             }
         ],
         "2059D1EF": [
@@ -4074,32 +4243,32 @@
         ],
         "CE50DE8A": [
             {
-                "value": 0
+                "value": 93
             }
         ],
         "BCBA3B5D": [
             {
-                "value": 0
+                "value": 134
             }
         ],
         "C6C127D3": [
             {
-                "value": 6
+                "value": 13
             }
         ],
         "AF7F8C9B": [
             {
-                "value": 7
+                "value": 11
             }
         ],
         "F0B69842": [
             {
-                "value": 0
+                "value": 2
             }
         ],
         "8283BC32": [
             {
-                "value": 0
+                "value": 1
             }
         ],
         "690FCD47": [
@@ -4152,19 +4321,24 @@
                 "value": 20.0
             }
         ],
+        "A8F9C0FD": [
+            {
+                "value": 2109440
+            }
+        ],
         "28785B1D": [
             {
-                "value": 79
+                "value": 80
             }
         ],
         "500FA530": [
             {
-                "value": 2
+                "value": 0
             }
         ],
         "3E300171": [
             {
-                "value": 0
+                "value": 2
             }
         ],
         "2C4FDDAD": [
@@ -4174,32 +4348,32 @@
         ],
         "CF01D807": [
             {
-                "value": 44
+                "value": 77
             }
         ],
         "5CCF73A4": [
             {
-                "value": 40
+                "value": 37
             }
         ],
         "7705280F": [
             {
-                "value": 3
+                "value": 239
             }
         ],
         "A6142678": [
             {
-                "value": 247000
+                "value": 334000
             }
         ],
         "945582FB": [
             {
-                "value": 353000
+                "value": 347000
             }
         ],
         "A5CD25E6": [
             {
-                "value": 401000
+                "value": 350000
             }
         ],
         "C79DB829": [
@@ -4219,57 +4393,67 @@
         ],
         "12087D24": [
             {
-                "value": 14
+                "value": 10
             }
         ],
         "2B8718AB": [
             {
-                "value": 174
+                "value": 66
             }
         ],
         "263D036B": [
             {
-                "value": 18
+                "value": 106
             }
         ],
         "8E8F42E7": [
             {
-                "value": 52
+                "value": 181
             }
         ],
         "C08CC99A": [
             {
-                "value": 214
+                "value": 37
             }
         ],
         "243995CE": [
             {
-                "value": 176
+                "value": 70
             }
         ],
         "A7B0CD9C": [
             {
-                "value": 58
+                "value": 128
             }
         ],
         "B3B8C0A0": [
             {
-                "value": 12
+                "value": 103
             }
         ],
         "10E1744C": [
             {
-                "value": 2
+                "value": 3
+            }
+        ],
+        "7F9644DC": [
+            {
+                "value": 74185547
+            }
+        ],
+        "BE9842DB": [
+            {
+                "value": 414224860
             }
         ],
         "30E9C7B0": [
             {
-                "value": 1924557585
+                "value": -947031628
             }
         ],
         "6725B427": [
             {
-                "value": -1238556825
+                "value": -774507221
             }
         ],
         "13AB0D33": [
@@ -4279,17 +4463,17 @@
         ],
         "49E3F9A4": [
             {
-                "value": 1119849093
+                "value": 100416529
             }
         ],
         "779F551A": [
             {
-                "value": -270015777
+                "value": -1357824103
             }
         ],
         "AC9BBF0E": [
             {
-                "value": -2067956739
+                "value": -1716189206
             }
         ],
         "5A7A9AD1": [
@@ -4314,22 +4498,22 @@
         ],
         "D614C5A6": [
             {
-                "value": 615608432
+                "value": -1813897027
             }
         ],
         "C41F21BB": [
             {
-                "value": 741814745
+                "value": -1169823560
             }
         ],
         "B1D4FD27": [
             {
-                "value": -1169823560
+                "value": -1420407917
             }
         ],
         "F75825F5": [
             {
-                "value": 124
+                "value": 125
             }
         ],
         "B83E70CE": [
@@ -4339,12 +4523,12 @@
         ],
         "AA6ED52B": [
             {
-                "value": 0.1
+                "value": 0.4
             }
         ],
         "EFA25F95": [
             {
-                "value": 0.5
+                "value": 0.1
             }
         ],
         "C9FA1445": [
@@ -4422,2189 +4606,204 @@
                 "value": 0.1
             }
         ],
-        "2A23C20C": [
+        "AF725211": [
             {
                 "value": true
             }
         ],
-        "2B346EDE": [
-            {
-                "value": 1750150800
-            }
-        ],
         "2671A03C": [
             {
-                "value": 39
+                "value": 40
             }
         ],
         "EFC24E46": [
             {
-                "value": 71
+                "value": 72
             }
         ],
         "BAEEE2AC": [
             {
-                "value": 1
+                "value": 0
             }
         ],
         "244FCD43": [
             {
-                "value": 27
+                "value": 28
             }
         ],
-        "28E75919": [
-            {
-                "value": 0.0
-            }
-        ],
-        "C4497CC3": [
-            {
-                "value": 0.0
-            }
-        ],
-        "8B9A62": [
-            {
-                "value": 0.0
-            }
-        ],
-        "8C9E2425": [
-            {
-                "value": 1.0
-            }
-        ],
-        "9A6F0594": [
-            {
-                "value": 80000
-            }
-        ],
-        "ABDC97DA": [
-            {
-                "value": 50000
-            }
-        ],
-        "6635F39A": [
-            {
-                "value": 30000
-            }
-        ],
-        "D5174FB4": [
-            {
-                "value": 100000
-            }
-        ],
-        "3ECCAFA0": [
-            {
-                "value": 100000
-            }
-        ],
-        "24FD4C6C": [
-            {
-                "value": 100000
-            }
-        ],
-        "3BD82E59": [
-            {
-                "value": 100000
-            }
-        ],
-        "49E84927": [
+        "7CEDA50B": [
             {
                 "value": 70000
             }
         ],
-        "1175026C": [
+        "A6E686E2": [
             {
-                "value": 70000
+                "value": 2000
             }
         ],
-        "33612278": [
-            {
-                "value": 70000
-            }
-        ],
-        "3FCB827B": [
-            {
-                "value": 70000
-            }
-        ],
-        "7318FDC6": [
-            {
-                "value": 40000
-            }
-        ],
-        "12A74F28": [
-            {
-                "value": 40000
-            }
-        ],
-        "86E12526": [
-            {
-                "value": 4000
-            }
-        ],
-        "FA7B53FC": [
-            {
-                "value": 3000
-            }
-        ],
-        "70807A43": [
-            {
-                "value": 10000
-            }
-        ],
-        "7CDAE559": [
+        "26BAA3BC": [
             {
                 "value": 1000
             }
         ],
-        "3886E437": [
-            {
-                "value": 4000
-            }
-        ],
-        "6998BA2A": [
-            {
-                "value": 3000
-            }
-        ],
-        "62B139A7": [
+        "CA20A1EE": [
             {
                 "value": 200
             }
         ],
-        "BB43AA15": [
+        "1FC51B73": [
             {
-                "value": 1914500
+                "value": 666120
             }
         ],
-        "C0DB7AFE": [
+        "891DBFCA": [
             {
-                "value": 1050000
+                "value": 1123850
             }
         ],
-        "1FFBA78C": [
+        "E90AA7DC": [
             {
-                "value": 1746500
+                "value": 591500
             }
         ],
-        "FA8E07B9": [
+        "F693776F": [
             {
-                "value": 1995000
+                "value": 887250
             }
         ],
-        "A138FD24": [
+        "AD1753A8": [
             {
-                "value": 1872500
+                "value": 1645000
             }
         ],
-        "8F93899D": [
+        "CE85BDF6": [
             {
-                "value": 1144500
+                "value": 1981000
             }
         ],
-        "636751D5": [
+        "D3C2AFB9": [
             {
-                "value": 1365000
+                "value": 1690500
             }
         ],
-        "BED06EA7": [
+        "EF364E8F": [
             {
-                "value": 1610000
+                "value": 1407000
             }
         ],
-        "EA010CE0": [
+        "96FF500F": [
             {
-                "value": 1519000
+                "value": 1501500
             }
         ],
-        "3FEC56F3": [
+        "2D944000": [
             {
-                "value": 1494500
+                "value": 1673000
             }
         ],
-        "9D4F8FA2": [
+        "D440EE45": [
             {
-                "value": 1095500
+                "value": 1834000
             }
         ],
-        "EAA915D1": [
+        "5BB35297": [
             {
-                "value": 1312500
+                "value": 1645000
             }
         ],
-        "F58CC7E2": [
+        "8AB957C3": [
             {
-                "value": 864500
+                "value": 1400000
             }
         ],
-        "773BA962": [
+        "2BEF8B75": [
             {
-                "value": 1641500
+                "value": 1155000
             }
         ],
-        "2E123D75": [
+        "A0755AD7": [
             {
-                "value": 1771000
+                "value": 1344000
             }
         ],
-        "7F8F14AE": [
+        "DDE9DAF6": [
             {
-                "value": 1022000
+                "value": 1193500
             }
         ],
-        "B3E8A1D0": [
+        "D5CE73FF": [
             {
-                "value": 122500
+                "value": 1281000
             }
         ],
-        "450A1260": [
+        "2D96D96D": [
             {
-                "value": 203000
+                "value": 1225000
             }
         ],
-        "31F8009F": [
+        "2C4E89C0": [
             {
-                "value": 329000
+                "value": 1169000
             }
         ],
-        "D5ACFF81": [
+        "2FA2D9D4": [
             {
-                "value": 17500
+                "value": 1509000
             }
         ],
-        "5A1D7DA8": [
+        "EF2CB2C6": [
             {
-                "value": 35350
+                "value": 1383000
             }
         ],
-        "734E620C": [
+        "E7AD2940": [
             {
-                "value": 39200
+                "value": 1299000
             }
         ],
-        "7AC4230C": [
+        "D6E57C68": [
             {
-                "value": 43050
+                "value": 1128000
             }
         ],
-        "B5E21B63": [
+        "C08969C7": [
             {
-                "value": 47600
+                "value": 1044000
             }
         ],
-        "5DBF4C1C": [
+        "CE573BC2": [
             {
-                "value": 53200
+                "value": 894000
             }
         ],
-        "27B00D43": [
+        "45E93E51": [
             {
-                "value": 60200
+                "value": 670500
             }
         ],
-        "7F8772F": [
+        "CF08EF73": [
             {
-                "value": 67200
+                "value": 747000
             }
         ],
-        "704B06BF": [
+        "896467A0": [
             {
-                "value": 75250
+                "value": 600000
             }
         ],
-        "DB703E2E": [
+        "B709E981": [
             {
-                "value": 35000
+                "value": 487200
             }
         ],
-        "BB358EA1": [
+        "949CCFE": [
             {
-                "value": 54600
+                "value": 447000
             }
         ],
-        "E8CB2A7C": [
+        "3BF09E58": [
             {
-                "value": 60200
-            }
-        ],
-        "7F27D57D": [
-            {
-                "value": 66150
-            }
-        ],
-        "AFE8AB69": [
-            {
-                "value": 73150
-            }
-        ],
-        "7E68C88E": [
-            {
-                "value": 81900
-            }
-        ],
-        "5D8A9D43": [
-            {
-                "value": 92400
-            }
-        ],
-        "62897CE5": [
-            {
-                "value": 103600
-            }
-        ],
-        "2CC08837": [
-            {
-                "value": 115500
-            }
-        ],
-        "B0CE24B8": [
-            {
-                "value": 35000
-            }
-        ],
-        "5B96146B": [
-            {
-                "value": 75250
-            }
-        ],
-        "39A47399": [
-            {
-                "value": 89600
-            }
-        ],
-        "E64D0342": [
-            {
-                "value": 104300
-            }
-        ],
-        "8BA9DF31": [
-            {
-                "value": 119700
-            }
-        ],
-        "11B97992": [
-            {
-                "value": 140700
-            }
-        ],
-        "F8EAD22B": [
-            {
-                "value": 168350
-            }
-        ],
-        "43EA8493": [
-            {
-                "value": 196000
-            }
-        ],
-        "D264CE63": [
-            {
-                "value": 224000
-            }
-        ],
-        "65EBF5B3": [
-            {
-                "value": 206500
-            }
-        ],
-        "11E5360A": [
-            {
-                "value": 105000
-            }
-        ],
-        "DD5931D2": [
-            {
-                "value": 150500
-            }
-        ],
-        "DE0924DD": [
-            {
-                "value": 1218000
-            }
-        ],
-        "1B46AF9B": [
-            {
-                "value": 350000
-            }
-        ],
-        "80D08BA5": [
-            {
-                "value": 1050000
-            }
-        ],
-        "5E15787D": [
-            {
-                "value": 120750
-            }
-        ],
-        "74E2A617": [
-            {
-                "value": 150850
-            }
-        ],
-        "C28FC174": [
-            {
-                "value": 180950
-            }
-        ],
-        "31A85599": [
-            {
-                "value": 54600
-            }
-        ],
-        "1FEAB21E": [
-            {
-                "value": 64750
-            }
-        ],
-        "103312AF": [
-            {
-                "value": 75950
-            }
-        ],
-        "F637DEC1": [
-            {
-                "value": 89600
-            }
-        ],
-        "74C25BCC": [
-            {
-                "value": 104300
-            }
-        ],
-        "69784538": [
-            {
-                "value": 112700
-            }
-        ],
-        "5736A0B5": [
-            {
-                "value": 122150
-            }
-        ],
-        "3E136E6F": [
-            {
-                "value": 134050
-            }
-        ],
-        "7F72F135": [
-            {
-                "value": 147000
-            }
-        ],
-        "22CCF843": [
-            {
-                "value": 630000
-            }
-        ],
-        "77E69C62": [
-            {
-                "value": 140000
-            }
-        ],
-        "853DF8F3": [
-            {
-                "value": 280000
-            }
-        ],
-        "BCCA73B9": [
-            {
-                "value": 350000
-            }
-        ],
-        "B24EEFA1": [
-            {
-                "value": 490000
-            }
-        ],
-        "1A4B572D": [
-            {
-                "value": 420000
-            }
-        ],
-        "DAFB5F81": [
-            {
-                "value": 745500
-            }
-        ],
-        "6EB976EE": [
-            {
-                "value": 140000
-            }
-        ],
-        "9D04BC9F": [
-            {
-                "value": 14350
-            }
-        ],
-        "9FD3C0E9": [
-            {
-                "value": 14350
-            }
-        ],
-        "7B9E0586": [
-            {
-                "value": 14350
-            }
-        ],
-        "DA1836C9": [
-            {
-                "value": 14350
-            }
-        ],
-        "6EAC5E9B": [
-            {
-                "value": 14350
-            }
-        ],
-        "34BFF7CB": [
-            {
-                "value": 14350
-            }
-        ],
-        "BC7FFB99": [
-            {
-                "value": 14350
-            }
-        ],
-        "7CDEFB00": [
-            {
-                "value": 14350
-            }
-        ],
-        "62E5D416": [
-            {
-                "value": 14350
-            }
-        ],
-        "658ECDB4": [
-            {
-                "value": 14350
-            }
-        ],
-        "6A64D618": [
-            {
-                "value": 14350
-            }
-        ],
-        "9F284CEE": [
-            {
-                "value": 14350
-            }
-        ],
-        "C4697BBA": [
-            {
-                "value": 19950
-            }
-        ],
-        "E4FEBCE4": [
-            {
-                "value": 20650
-            }
-        ],
-        "2123AA99": [
-            {
-                "value": 19950
-            }
-        ],
-        "37D5D7FD": [
-            {
-                "value": 19950
-            }
-        ],
-        "EC005D2": [
-            {
-                "value": 19950
-            }
-        ],
-        "13690F24": [
-            {
-                "value": 19950
-            }
-        ],
-        "9027A3B": [
-            {
-                "value": 19950
-            }
-        ],
-        "1E70A517": [
-            {
-                "value": 19950
-            }
-        ],
-        "55839340": [
-            {
-                "value": 19950
-            }
-        ],
-        "7AD4DDE2": [
-            {
-                "value": 19950
-            }
-        ],
-        "3F728563": [
-            {
-                "value": 2870
-            }
-        ],
-        "1356A8F5": [
-            {
-                "value": 23800
-            }
-        ],
-        "FB03F850": [
-            {
-                "value": 21700
-            }
-        ],
-        "93E94C5": [
-            {
-                "value": 22750
-            }
-        ],
-        "153EC143": [
-            {
-                "value": 24500
-            }
-        ],
-        "702EF850": [
-            {
-                "value": 21000
-            }
-        ],
-        "C5DA23A5": [
-            {
-                "value": 21000
-            }
-        ],
-        "D36B3EC7": [
-            {
-                "value": 21000
-            }
-        ],
-        "B412E72": [
-            {
-                "value": 21000
-            }
-        ],
-        "DA5B5A21": [
-            {
-                "value": 80500
-            }
-        ],
-        "DC507596": [
-            {
-                "value": 2450
-            }
-        ],
-        "FEE7BAC4": [
-            {
-                "value": 2450
-            }
-        ],
-        "B1A3A039": [
-            {
-                "value": 2450
-            }
-        ],
-        "A36D83CD": [
-            {
-                "value": 2450
-            }
-        ],
-        "880A1152": [
-            {
-                "value": 6510
-            }
-        ],
-        "1B5C8B50": [
-            {
-                "value": 20300
-            }
-        ],
-        "199787C6": [
-            {
-                "value": 20300
-            }
-        ],
-        "459EDFD4": [
-            {
-                "value": 20300
-            }
-        ],
-        "33E43C5F": [
-            {
-                "value": 20300
-            }
-        ],
-        "6244191E": [
-            {
-                "value": 20300
-            }
-        ],
-        "DE9EFE22": [
-            {
-                "value": 10850
-            }
-        ],
-        "D064E1AE": [
-            {
-                "value": 10850
-            }
-        ],
-        "B20D725": [
-            {
-                "value": 10850
-            }
-        ],
-        "ECDF9AA3": [
-            {
-                "value": 10850
-            }
-        ],
-        "956F6BC4": [
-            {
-                "value": 10850
-            }
-        ],
-        "4D6AF366": [
-            {
-                "value": 3990
-            }
-        ],
-        "CEF8CC5": [
-            {
-                "value": 30450
-            }
-        ],
-        "AE9DDE79": [
-            {
-                "value": 6580
-            }
-        ],
-        "25244BB4": [
-            {
-                "value": 12880
-            }
-        ],
-        "FFE36B6": [
-            {
-                "value": 7840
-            }
-        ],
-        "C05D9766": [
-            {
-                "value": 7840
-            }
-        ],
-        "E1FB2E9": [
-            {
-                "value": 7840
-            }
-        ],
-        "D3CB3E41": [
-            {
-                "value": 7840
-            }
-        ],
-        "16F1AF4F": [
-            {
-                "value": 1925
-            }
-        ],
-        "1CE5951": [
-            {
-                "value": 6055
-            }
-        ],
-        "347EEA65": [
-            {
-                "value": 12740
-            }
-        ],
-        "5371FC97": [
-            {
-                "value": 8050
-            }
-        ],
-        "839995D5": [
-            {
-                "value": 3325
-            }
-        ],
-        "62BC541B": [
-            {
-                "value": 1925
-            }
-        ],
-        "63199BCA": [
-            {
-                "value": 3850
-            }
-        ],
-        "A2E69C4B": [
-            {
-                "value": 840
-            }
-        ],
-        "DFEB4E77": [
-            {
-                "value": 1680
-            }
-        ],
-        "94B4FFE8": [
-            {
-                "value": 19250
-            }
-        ],
-        "F6E78FDF": [
-            {
-                "value": 5460
-            }
-        ],
-        "E52AEC66": [
-            {
-                "value": 5460
-            }
-        ],
-        "D6E44FD9": [
-            {
-                "value": 5460
-            }
-        ],
-        "C0B6237D": [
-            {
-                "value": 5460
-            }
-        ],
-        "B30C882A": [
-            {
-                "value": 5460
-            }
-        ],
-        "9E535EB4": [
-            {
-                "value": 5460
-            }
-        ],
-        "88A23352": [
-            {
-                "value": 5460
-            }
-        ],
-        "79E095CF": [
-            {
-                "value": 5460
-            }
-        ],
-        "399249A0": [
-            {
-                "value": 20650
-            }
-        ],
-        "E44EC993": [
-            {
-                "value": 8400
-            }
-        ],
-        "F6086D0A": [
-            {
-                "value": 8400
-            }
-        ],
-        "3A2AF552": [
-            {
-                "value": 8400
-            }
-        ],
-        "CFBD75F8": [
-            {
-                "value": 47600
-            }
-        ],
-        "6D1430A7": [
-            {
-                "value": 19810
-            }
-        ],
-        "64829768": [
-            {
-                "value": 36750
-            }
-        ],
-        "5CBAC724": [
-            {
-                "value": 19600
-            }
-        ],
-        "92626BCE": [
-            {
-                "value": 12250
-            }
-        ],
-        "A8A0984A": [
-            {
-                "value": 12250
-            }
-        ],
-        "BF2C4561": [
-            {
-                "value": 12250
-            }
-        ],
-        "90072DBC": [
-            {
-                "value": 17220
-            }
-        ],
-        "3E480A3F": [
-            {
-                "value": 17220
-            }
-        ],
-        "8A2AE32C": [
-            {
-                "value": 60200
-            }
-        ],
-        "A7A99E29": [
-            {
-                "value": 6090
-            }
-        ],
-        "94FBF8CE": [
-            {
-                "value": 4480
-            }
-        ],
-        "CBCC24DD": [
-            {
-                "value": 31500
-            }
-        ],
-        "3AA866A0": [
-            {
-                "value": 18550
-            }
-        ],
-        "257A3C44": [
-            {
-                "value": 18550
-            }
-        ],
-        "161C9D89": [
-            {
-                "value": 18550
-            }
-        ],
-        "53E12E40": [
-            {
-                "value": 19600
-            }
-        ],
-        "A6641B2A": [
-            {
-                "value": 17500
-            }
-        ],
-        "5D578986": [
-            {
-                "value": 17150
-            }
-        ],
-        "B887F905": [
-            {
-                "value": 17500
-            }
-        ],
-        "E33DCE70": [
-            {
-                "value": 16450
-            }
-        ],
-        "EBD4C828": [
-            {
-                "value": 21000
-            }
-        ],
-        "6F88AED4": [
-            {
-                "value": 3920
-            }
-        ],
-        "42B15522": [
-            {
-                "value": 2415
-            }
-        ],
-        "21C9AF45": [
-            {
-                "value": 17150
-            }
-        ],
-        "13289203": [
-            {
-                "value": 17150
-            }
-        ],
-        "DB9DA2EE": [
-            {
-                "value": 17150
-            }
-        ],
-        "CDDA0767": [
-            {
-                "value": 17150
-            }
-        ],
-        "F7F05B93": [
-            {
-                "value": 17150
-            }
-        ],
-        "EA19BFE6": [
-            {
-                "value": 17150
-            }
-        ],
-        "F6BD5911": [
-            {
-                "value": 17150
-            }
-        ],
-        "E89EBCD4": [
-            {
-                "value": 17150
-            }
-        ],
-        "513FF23F": [
-            {
-                "value": 17850
-            }
-        ],
-        "5E8A0CD3": [
-            {
-                "value": 17850
-            }
-        ],
-        "B72ABF77": [
-            {
-                "value": 17850
-            }
-        ],
-        "6015A4E4": [
-            {
-                "value": 3920
-            }
-        ],
-        "F5B4D020": [
-            {
-                "value": 3920
-            }
-        ],
-        "C371EB9B": [
-            {
-                "value": 3920
-            }
-        ],
-        "19519759": [
-            {
-                "value": 3920
-            }
-        ],
-        "144F464F": [
-            {
-                "value": 12880
-            }
-        ],
-        "48D3AF57": [
-            {
-                "value": 12880
-            }
-        ],
-        "F6918AD4": [
-            {
-                "value": 12880
-            }
-        ],
-        "E1AD947C": [
-            {
-                "value": 21700
-            }
-        ],
-        "BDFBBB0D": [
-            {
-                "value": 3360
-            }
-        ],
-        "5EAF8E82": [
-            {
-                "value": 24850
-            }
-        ],
-        "D00AA68E": [
-            {
-                "value": 24500
-            }
-        ],
-        "94E97AF5": [
-            {
-                "value": 21000
-            }
-        ],
-        "825F55D5": [
-            {
-                "value": 49700
-            }
-        ],
-        "960AC2D": [
-            {
-                "value": 66500
-            }
-        ],
-        "FA440DF4": [
-            {
-                "value": 66500
-            }
-        ],
-        "638DE086": [
-            {
-                "value": 66500
-            }
-        ],
-        "E6F7675B": [
-            {
-                "value": 66500
-            }
-        ],
-        "2F73146F": [
-            {
-                "value": 17150
-            }
-        ],
-        "B7B4A614": [
-            {
-                "value": 16450
-            }
-        ],
-        "BDDF165F": [
-            {
-                "value": 12880
-            }
-        ],
-        "CAF6B08E": [
-            {
-                "value": 12880
-            }
-        ],
-        "2001EA0": [
-            {
-                "value": 12880
-            }
-        ],
-        "1048BB31": [
-            {
-                "value": 12880
-            }
-        ],
-        "C8432DF5": [
-            {
-                "value": 420
-            }
-        ],
-        "BD6D1849": [
-            {
-                "value": 420
-            }
-        ],
-        "ABAE74CC": [
-            {
-                "value": 420
-            }
-        ],
-        "739785CB": [
-            {
-                "value": 315
-            }
-        ],
-        "BC3296F4": [
-            {
-                "value": 315
-            }
-        ],
-        "87EE2E78": [
-            {
-                "value": 315
-            }
-        ],
-        "EE3F9B98": [
-            {
-                "value": 1050
-            }
-        ],
-        "941C64BB": [
-            {
-                "value": 49350
-            }
-        ],
-        "54BB81F7": [
-            {
-                "value": 10220
-            }
-        ],
-        "20973165": [
-            {
-                "value": 10500
-            }
-        ],
-        "125194DA": [
-            {
-                "value": 10500
-            }
-        ],
-        "323F67F": [
-            {
-                "value": 10500
-            }
-        ],
-        "2683E497": [
-            {
-                "value": 66500
-            }
-        ],
-        "5DEC4E37": [
-            {
-                "value": 17150
-            }
-        ],
-        "3F04BBC1": [
-            {
-                "value": 9240
-            }
-        ],
-        "C12D14C3": [
-            {
-                "value": 2450
-            }
-        ],
-        "4DBF5936": [
-            {
-                "value": 1925
-            }
-        ],
-        "CBE72A37": [
-            {
-                "value": 19250
-            }
-        ],
-        "134CCC03": [
-            {
-                "value": 53200
-            }
-        ],
-        "300F858C": [
-            {
-                "value": 53200
-            }
-        ],
-        "F52452D0": [
-            {
-                "value": 12250
-            }
-        ],
-        "E35F2F46": [
-            {
-                "value": 12250
-            }
-        ],
-        "D0A889D9": [
-            {
-                "value": 12250
-            }
-        ],
-        "CE0C84A1": [
-            {
-                "value": 12250
-            }
-        ],
-        "A691B0C7": [
-            {
-                "value": 2380
-            }
-        ],
-        "990015A4": [
-            {
-                "value": 2380
-            }
-        ],
-        "9F9122C6": [
-            {
-                "value": 2380
-            }
-        ],
-        "4C6C374A": [
-            {
-                "value": 17150
-            }
-        ],
-        "A50F6201": [
-            {
-                "value": 1750
-            }
-        ],
-        "9631C446": [
-            {
-                "value": 1750
-            }
-        ],
-        "97E6CFA1": [
-            {
-                "value": 17850
-            }
-        ],
-        "87E82FA4": [
-            {
-                "value": 18550
-            }
-        ],
-        "9F903208": [
-            {
-                "value": 19460
-            }
-        ],
-        "FAE21D66": [
-            {
-                "value": 5460
-            }
-        ],
-        "499A3AD9": [
-            {
-                "value": 5460
-            }
-        ],
-        "5834580D": [
-            {
-                "value": 5460
-            }
-        ],
-        "23C5EF31": [
-            {
-                "value": 5460
-            }
-        ],
-        "31798A98": [
-            {
-                "value": 5460
-            }
-        ],
-        "808FA8C3": [
-            {
-                "value": 5460
-            }
-        ],
-        "611CC8B7": [
-            {
-                "value": 2870
-            }
-        ],
-        "259A4D7C": [
-            {
-                "value": 23800
-            }
-        ],
-        "270E64E2": [
-            {
-                "value": 24500
-            }
-        ],
-        "1B86D5AF": [
-            {
-                "value": 22050
-            }
-        ],
-        "E9C4F22C": [
-            {
-                "value": 22050
-            }
-        ],
-        "2E0F7AC4": [
-            {
-                "value": 22050
-            }
-        ],
-        "C5A3756": [
-            {
-                "value": 22050
-            }
-        ],
-        "133FFB33": [
-            {
-                "value": 17850
-            }
-        ],
-        "259F9FF2": [
-            {
-                "value": 17850
-            }
-        ],
-        "F8B5461E": [
-            {
-                "value": 17850
-            }
-        ],
-        "8F7E6A3": [
-            {
-                "value": 17850
-            }
-        ],
-        "AF90048B": [
-            {
-                "value": 57400
-            }
-        ],
-        "9E473DCC": [
-            {
-                "value": 6090
-            }
-        ],
-        "FAB5E852": [
-            {
-                "value": 17920
-            }
-        ],
-        "4F6FED3F": [
-            {
-                "value": 18900
-            }
-        ],
-        "FB42E96C": [
-            {
-                "value": 13790
-            }
-        ],
-        "1F89B1F9": [
-            {
-                "value": 30450
-            }
-        ],
-        "FFD1810F": [
-            {
-                "value": 6650
-            }
-        ],
-        "C9E5B936": [
-            {
-                "value": 50750
-            }
-        ],
-        "317B55DC": [
-            {
-                "value": 40600
-            }
-        ],
-        "2B0EFF4": [
-            {
-                "value": 1680
-            }
-        ],
-        "737FD178": [
-            {
-                "value": 1680
-            }
-        ],
-        "2D3EC50F": [
-            {
-                "value": 1680
-            }
-        ],
-        "1C153EA9": [
-            {
-                "value": 2625
-            }
-        ],
-        "D37C7CAE": [
-            {
-                "value": 6055
-            }
-        ],
-        "7D2EC8BC": [
-            {
-                "value": 17920
-            }
-        ],
-        "671B5CD5": [
-            {
-                "value": 12740
-            }
-        ],
-        "5978418F": [
-            {
-                "value": 4795
-            }
-        ],
-        "C85EEC0": [
-            {
-                "value": 5670
-            }
-        ],
-        "3AD3CB5B": [
-            {
-                "value": 5670
-            }
-        ],
-        "7EA552E1": [
-            {
-                "value": 5670
-            }
-        ],
-        "6BF72D85": [
-            {
-                "value": 5670
-            }
-        ],
-        "A551D945": [
-            {
-                "value": 3395
-            }
-        ],
-        "5481B7A6": [
-            {
-                "value": 2205
-            }
-        ],
-        "AE626B66": [
-            {
-                "value": 4760
-            }
-        ],
-        "5988098B": [
-            {
-                "value": 3850
-            }
-        ],
-        "3772B0A8": [
-            {
-                "value": 525
-            }
-        ],
-        "49AF5521": [
-            {
-                "value": 525
-            }
-        ],
-        "16BCEF3D": [
-            {
-                "value": 525
-            }
-        ],
-        "FF47550B": [
-            {
-                "value": 17500
-            }
-        ],
-        "C60E629A": [
-            {
-                "value": 8400
-            }
-        ],
-        "DAF85961": [
-            {
-                "value": 29050
-            }
-        ],
-        "D14245F5": [
-            {
-                "value": 29050
-            }
-        ],
-        "BF15A19C": [
-            {
-                "value": 29050
-            }
-        ],
-        "93E84B3E": [
-            {
-                "value": 29050
-            }
-        ],
-        "78993F95": [
-            {
-                "value": 17150
-            }
-        ],
-        "DD0E1099": [
-            {
-                "value": 28000
-            }
-        ],
-        "C482E504": [
-            {
-                "value": 12950
-            }
-        ],
-        "44E765CB": [
-            {
-                "value": 12950
-            }
-        ],
-        "E53F8A5": [
-            {
-                "value": 12950
-            }
-        ],
-        "21729EE2": [
-            {
-                "value": 12950
-            }
-        ],
-        "F9107FD1": [
-            {
-                "value": 12180
-            }
-        ],
-        "2E636A76": [
-            {
-                "value": 36750
-            }
-        ],
-        "2E472AF2": [
-            {
-                "value": 7700
-            }
-        ],
-        "A4BD853": [
-            {
-                "value": 19950
-            }
-        ],
-        "1F448248": [
-            {
-                "value": 19950
-            }
-        ],
-        "D9557191": [
-            {
-                "value": 17150
-            }
-        ],
-        "33A3A634": [
-            {
-                "value": 17150
-            }
-        ],
-        "218201F1": [
-            {
-                "value": 17150
-            }
-        ],
-        "838CF5B": [
-            {
-                "value": 17150
-            }
-        ],
-        "797841C7": [
-            {
-                "value": 6580
-            }
-        ],
-        "A1A850FE": [
-            {
-                "value": 29750
-            }
-        ],
-        "1987298E": [
-            {
-                "value": 12950
-            }
-        ],
-        "37B765EE": [
-            {
-                "value": 13650
-            }
-        ],
-        "6D08421": [
-            {
-                "value": 12600
-            }
-        ],
-        "A4B6027E": [
-            {
-                "value": 10150
-            }
-        ],
-        "B702A717": [
-            {
-                "value": 10150
-            }
-        ],
-        "330B9F0F": [
-            {
-                "value": 10150
-            }
-        ],
-        "4D95D423": [
-            {
-                "value": 10150
-            }
-        ],
-        "1A074152": [
-            {
-                "value": 5460
-            }
-        ],
-        "C644147D": [
-            {
-                "value": 17150
-            }
-        ],
-        "8FA22736": [
-            {
-                "value": 10990
-            }
-        ],
-        "9DACC34B": [
-            {
-                "value": 11690
-            }
-        ],
-        "D468B0C6": [
-            {
-                "value": 16800
-            }
-        ],
-        "F9FF647D": [
-            {
-                "value": 19460
-            }
-        ],
-        "AAEEA59F": [
-            {
-                "value": 3920
-            }
-        ],
-        "5B7B3DA4": [
-            {
-                "value": 5110
-            }
-        ],
-        "6C65A88A": [
-            {
-                "value": 17850
-            }
-        ],
-        "CFF2F107": [
-            {
-                "value": 18200
-            }
-        ],
-        "D169E1E9": [
-            {
-                "value": 3360
-            }
-        ],
-        "6E6D2DFD": [
-            {
-                "value": 24850
-            }
-        ],
-        "B2C76C08": [
-            {
-                "value": 16800
-            }
-        ],
-        "7DA901CC": [
-            {
-                "value": 17920
-            }
-        ],
-        "7649221A": [
-            {
-                "value": 17150
-            }
-        ],
-        "F070978B": [
-            {
-                "value": 16450
-            }
-        ],
-        "6C8F9086": [
-            {
-                "value": 1050
-            }
-        ],
-        "3C7D2FFE": [
-            {
-                "value": 238
-            }
-        ],
-        "3D4E516": [
-            {
-                "value": 11550
-            }
-        ],
-        "898F7089": [
-            {
-                "value": 11550
-            }
-        ],
-        "5666E951": [
-            {
-                "value": 8750
-            }
-        ],
-        "E88F7689": [
-            {
-                "value": 52500
-            }
-        ],
-        "A178A05B": [
-            {
-                "value": 3500
-            }
-        ],
-        "DCC8D122": [
-            {
-                "value": 66500
-            }
-        ],
-        "4BB6A9CC": [
-            {
-                "value": 17150
-            }
-        ],
-        "772480A7": [
-            {
-                "value": 10500
-            }
-        ],
-        "AF847172": [
-            {
-                "value": 2450
-            }
-        ],
-        "4624EA94": [
-            {
-                "value": 9380
-            }
-        ],
-        "7CD757F8": [
-            {
-                "value": 9380
-            }
-        ],
-        "3E4C2205": [
-            {
-                "value": 53200
-            }
-        ],
-        "2823BE3E": [
-            {
-                "value": 12250
-            }
-        ],
-        "35F959E9": [
-            {
-                "value": 12250
-            }
-        ],
-        "B860503": [
-            {
-                "value": 12250
-            }
-        ],
-        "1944A080": [
-            {
-                "value": 12250
-            }
-        ],
-        "2BF3989E": [
-            {
-                "value": 26250
-            }
-        ],
-        "6F13D936": [
-            {
-                "value": 31500
-            }
-        ],
-        "60E83CDF": [
-            {
-                "value": 31500
-            }
-        ],
-        "3E50F7B1": [
-            {
-                "value": 31500
-            }
-        ],
-        "A8CCCCA7": [
-            {
-                "value": 31500
-            }
-        ],
-        "9AAF306C": [
-            {
-                "value": 31500
-            }
-        ],
-        "94392380": [
-            {
-                "value": 31500
-            }
-        ],
-        "86128733": [
-            {
-                "value": 31500
-            }
-        ],
-        "EFE25AD5": [
-            {
-                "value": 31500
-            }
-        ],
-        "9315449F": [
-            {
-                "value": 17150
-            }
-        ],
-        "87A22727": [
-            {
-                "value": 1750
-            }
-        ],
-        "EE3C745E": [
-            {
-                "value": 1750
-            }
-        ],
-        "79AA1328": [
-            {
-                "value": 17150
-            }
-        ],
-        "6B7676C1": [
-            {
-                "value": 18200
-            }
-        ],
-        "D5D81E97": [
-            {
-                "value": 20650
-            }
-        ],
-        "F19FE4AC": [
-            {
-                "value": 6300
-            }
-        ],
-        "660421BB": [
-            {
-                "value": 6055
-            }
-        ],
-        "13AD35FA": [
-            {
-                "value": 4025
-            }
-        ],
-        "1D7E42F0": [
-            {
-                "value": 16800
-            }
-        ],
-        "7C9E48FF": [
-            {
-                "value": 3920
-            }
-        ],
-        "BE5E78C": [
-            {
-                "value": 17850
-            }
-        ],
-        "D5643141": [
-            {
-                "value": 12320
-            }
-        ],
-        "8B336789": [
-            {
-                "value": 28700
-            }
-        ],
-        "47F54573": [
-            {
-                "value": 17150
-            }
-        ],
-        "1339DD1D": [
-            {
-                "value": 16450
-            }
-        ],
-        "AAEC06C4": [
-            {
-                "value": 12250
-            }
-        ],
-        "2186730B": [
-            {
-                "value": 12250
-            }
-        ],
-        "334E169A": [
-            {
-                "value": 12250
-            }
-        ],
-        "3DFC2BF6": [
-            {
-                "value": 12250
-            }
-        ],
-        "9DE85A45": [
-            {
-                "value": 17150
-            }
-        ],
-        "5FF3D7CB": [
-            {
-                "value": 1750
-            }
-        ],
-        "508AB8F9": [
-            {
-                "value": 1750
-            }
-        ],
-        "5F3B5E4B": [
-            {
-                "value": 16450
-            }
-        ],
-        "4F32BE3A": [
-            {
-                "value": 15750
-            }
-        ],
-        "39D88250": [
-            {
-                "value": 4165
-            }
-        ],
-        "2BC15F76": [
-            {
-                "value": 16450
-            }
-        ],
-        "A67154C8": [
-            {
-                "value": 17500
-            }
-        ],
-        "612D921E": [
-            {
-                "value": 3920
-            }
-        ],
-        "3498F119": [
-            {
-                "value": 14350
-            }
-        ],
-        "2A68D20F": [
-            {
-                "value": 84000
-            }
-        ],
-        "BB374C11": [
-            {
-                "value": 105000
-            }
-        ],
-        "D7B6AC1A": [
-            {
-                "value": 94500
-            }
-        ],
-        "3478CC71": [
-            {
-                "value": 91000
-            }
-        ],
-        "1F28ED55": [
-            {
-                "value": 87500
-            }
-        ],
-        "109096B6": [
-            {
-                "value": 115500
-            }
-        ],
-        "68904DF8": [
-            {
-                "value": 108500
-            }
-        ],
-        "84CE7612": [
-            {
-                "value": 112000
-            }
-        ],
-        "24EEA687": [
-            {
-                "value": 122500
-            }
-        ],
-        "F8F5EE5A": [
-            {
-                "value": 1188000
-            }
-        ],
-        "CE87BA58": [
-            {
-                "value": 1179000
-            }
-        ],
-        "4BF78A8E": [
-            {
-                "value": 1065000
-            }
-        ],
-        "AE9C8F6A": [
-            {
-                "value": 798750
-            }
-        ],
-        "F6853BB9": [
-            {
-                "value": 897000
-            }
-        ],
-        "3C8F95F4": [
-            {
-                "value": 672750
-            }
-        ],
-        "481D4677": [
-            {
-                "value": 705000
-            }
-        ],
-        "C4858EA6": [
-            {
-                "value": 687000
-            }
-        ],
-        "EA85A8FC": [
-            {
-                "value": 472500
-            }
-        ],
-        "C92449CD": [
-            {
-                "value": 628425
+                "value": 358200
             }
         ],
         "52BDAF86": [
@@ -6630,16 +4829,6 @@
         "BEF32571": [
             {
                 "value": 180000
-            }
-        ],
-        "ACDA256D": [
-            {
-                "value": 300.0
-            }
-        ],
-        "180BEED6": [
-            {
-                "value": 300.0
             }
         ],
         "5299E6EA": [
@@ -6707,24 +4896,69 @@
                 "value": false
             }
         ],
+        "B5F9B1B3": [
+            {
+                "value": true
+            }
+        ],
+        "C8387A0E": [
+            {
+                "value": true
+            }
+        ],
         "57BBF070": [
             {
-                "value": 454
+                "value": 455
             }
         ],
         "A8443DB2": [
             {
-                "value": 454
+                "value": 455
             }
         ],
         "AE677A86": [
             {
-                "value": 39
+                "value": 40
             }
         ],
-        "7D1F2A6F": [
+        "4F350EB8": [
             {
-                "value": 425984
+                "value": true
+            }
+        ],
+        "131D3D58": [
+            {
+                "value": true
+            }
+        ],
+        "F8642296": [
+            {
+                "value": 196823
+            }
+        ],
+        "9961599B": [
+            {
+                "value": 196823
+            }
+        ],
+        "E475971F": [
+            {
+                "value": 196823
+            }
+        ],
+        "4519A527": [
+            {
+                "value": 256
+            }
+        ],
+        "A1892DC8": [
+            {
+                "value": 1
+            }
+        ],
+        "6F2B7DC1": [
+            {
+                "value": 687627128
             }
         ],
         "E2972BBA": [
@@ -6869,7 +5103,7 @@
         ],
         "8C63DA40": [
             {
-                "value": 0.2
+                "value": 0.4
             }
         ],
         "7E943E9D": [
@@ -6879,7 +5113,7 @@
         ],
         "C3C7C907": [
             {
-                "value": 0.5
+                "value": 0.2
             }
         ],
         "9E1F7DB7": [
@@ -6959,1082 +5193,277 @@
         ],
         "F9414011": [
             {
-                "value": -465825307
+                "value": 687627128
             }
         ],
-        "241968DF": [
+        "D24BA5FF": [
             {
                 "value": 0
             }
         ],
-        "414EC62F": [
+        "D869DA48": [
             {
                 "value": true
             }
         ],
-        "36F487F1": [
+        "F2BD951D": [
             {
                 "value": true
             }
         ],
-        "BF9678C2": [
+        "DD77282F": [
             {
                 "value": 0
             }
         ],
-        "8A5802B6": [
+        "C4F1F7E9": [
             {
-                "value": 64
+                "value": 1048576
             }
         ],
-        "4D48484F": [
+        "59416041": [
             {
-                "value": 64
+                "value": 1048576
             }
         ],
-        "FF4F4466": [
+        "84A7FA3E": [
             {
-                "value": 4500
+                "value": 16
             }
         ],
-        "B7BDA2D7": [
+        "5B68D844": [
             {
-                "value": 45000
+                "value": 687627128
             }
         ],
-        "803299FB": [
+        "A31508A3": [
             {
-                "value": 300
+                "value": 142
             }
         ],
-        "E64D181F": [
+        "51130E7D": [
             {
-                "value": 1500
+                "value": 140000
             }
         ],
-        "4381C4E8": [
-            {
-                "value": 1500
-            }
-        ],
-        "78AF51CD": [
-            {
-                "value": 3000
-            }
-        ],
-        "E28BD893": [
-            {
-                "value": 15000
-            }
-        ],
-        "E466BCDC": [
-            {
-                "value": 30000
-            }
-        ],
-        "C1334EEC": [
-            {
-                "value": 300
-            }
-        ],
-        "768D69BF": [
-            {
-                "value": 1500
-            }
-        ],
-        "C7B9F681": [
-            {
-                "value": 45000
-            }
-        ],
-        "227C0EC": [
-            {
-                "value": 3000
-            }
-        ],
-        "55728135": [
-            {
-                "value": 1500
-            }
-        ],
-        "CD55CDFD": [
-            {
-                "value": 300
-            }
-        ],
-        "7CC2EAA6": [
-            {
-                "value": 6000
-            }
-        ],
-        "F213C12C": [
-            {
-                "value": 60000
-            }
-        ],
-        "C04152F2": [
-            {
-                "value": 300
-            }
-        ],
-        "8AF1EE84": [
-            {
-                "value": 1500
-            }
-        ],
-        "585CF2BC": [
-            {
-                "value": 6000
-            }
-        ],
-        "FD81232E": [
-            {
-                "value": 60000
-            }
-        ],
-        "D1F1165F": [
-            {
-                "value": 300
-            }
-        ],
-        "58AAE576": [
-            {
-                "value": 1500
-            }
-        ],
-        "541AE515": [
-            {
-                "value": 9000
-            }
-        ],
-        "A84269D8": [
-            {
-                "value": 75000
-            }
-        ],
-        "DB4F958E": [
-            {
-                "value": 300
-            }
-        ],
-        "E8E7D428": [
-            {
-                "value": 1500
-            }
-        ],
-        "DF066560": [
-            {
-                "value": 6000
-            }
-        ],
-        "4B4F5081": [
-            {
-                "value": 15000
-            }
-        ],
-        "6E974366": [
-            {
-                "value": 0.015
-            }
-        ],
-        "A0E801BA": [
-            {
-                "value": 300
-            }
-        ],
-        "E9DFAA33": [
-            {
-                "value": 1500
-            }
-        ],
-        "7C9A398B": [
-            {
-                "value": 6000
-            }
-        ],
-        "A5A9A689": [
-            {
-                "value": 45000
-            }
-        ],
-        "E62F9E74": [
-            {
-                "value": 300
-            }
-        ],
-        "70051DF0": [
-            {
-                "value": 300
-            }
-        ],
-        "3AA17CFC": [
-            {
-                "value": 300
-            }
-        ],
-        "4A923A36": [
-            {
-                "value": 1500
-            }
-        ],
-        "9FACDBCD": [
-            {
-                "value": 1500
-            }
-        ],
-        "1390E1C3": [
-            {
-                "value": 6000
-            }
-        ],
-        "93809EE0": [
-            {
-                "value": 9000
-            }
-        ],
-        "EB35ADA4": [
-            {
-                "value": 300
-            }
-        ],
-        "D46D2688": [
-            {
-                "value": 1500
-            }
-        ],
-        "70E8DB5A": [
-            {
-                "value": 1500
-            }
-        ],
-        "D820E1B4": [
-            {
-                "value": 30000
-            }
-        ],
-        "1451AEA0": [
-            {
-                "value": 300
-            }
-        ],
-        "8B893D58": [
-            {
-                "value": 1500
-            }
-        ],
-        "8A71B33": [
-            {
-                "value": 4500
-            }
-        ],
-        "77F6F543": [
-            {
-                "value": 15000
-            }
-        ],
-        "11AD9C6B": [
-            {
-                "value": 90000
-            }
-        ],
-        "CE9F1599": [
-            {
-                "value": 300
-            }
-        ],
-        "43A17533": [
-            {
-                "value": 1500
-            }
-        ],
-        "2D255562": [
-            {
-                "value": 6000
-            }
-        ],
-        "48964B22": [
-            {
-                "value": 15000
-            }
-        ],
-        "43EACE5C": [
-            {
-                "value": 90000
-            }
-        ],
-        "977965F": [
-            {
-                "value": 300
-            }
-        ],
-        "6BCA9288": [
-            {
-                "value": 1500
-            }
-        ],
-        "CBD079E5": [
-            {
-                "value": 4500
-            }
-        ],
-        "F111E907": [
-            {
-                "value": 60000
-            }
-        ],
-        "AFD98AF5": [
-            {
-                "value": 15000
-            }
-        ],
-        "15AE7C7D": [
-            {
-                "value": 300
-            }
-        ],
-        "9DC3E173": [
-            {
-                "value": 1500
-            }
-        ],
-        "4826ADE5": [
-            {
-                "value": 6000
-            }
-        ],
-        "2734EC6F": [
-            {
-                "value": 60000
-            }
-        ],
-        "8DDE9E0": [
-            {
-                "value": 300
-            }
-        ],
-        "4EBC00AA": [
-            {
-                "value": 1500
-            }
-        ],
-        "1E61B1D0": [
-            {
-                "value": 450
-            }
-        ],
-        "38B61A94": [
-            {
-                "value": 15000
-            }
-        ],
-        "48B5017C": [
-            {
-                "value": 15000
-            }
-        ],
-        "ED7704C": [
-            {
-                "value": 1500
-            }
-        ],
-        "4AD66306": [
-            {
-                "value": 1500
-            }
-        ],
-        "E9257EB7": [
-            {
-                "value": 300
-            }
-        ],
-        "48F3926C": [
-            {
-                "value": 90000
-            }
-        ],
-        "1F80F469": [
-            {
-                "value": 6000
-            }
-        ],
-        "4B4BFC27": [
-            {
-                "value": 900
-            }
-        ],
-        "E408F862": [
-            {
-                "value": 1500
-            }
-        ],
-        "D873D6E7": [
-            {
-                "value": 15000
-            }
-        ],
-        "82A2F21C": [
-            {
-                "value": 300
-            }
-        ],
-        "1322D3B6": [
-            {
-                "value": 1500
-            }
-        ],
-        "32FE3832": [
-            {
-                "value": 6000
-            }
-        ],
-        "9782F7A4": [
-            {
-                "value": 45000
-            }
-        ],
-        "2A7576CD": [
-            {
-                "value": 150
-            }
-        ],
-        "2946ADD9": [
-            {
-                "value": 300
-            }
-        ],
-        "E6323696": [
-            {
-                "value": 1500
-            }
-        ],
-        "2959BCB1": [
-            {
-                "value": 75000
-            }
-        ],
-        "C9503F6F": [
-            {
-                "value": 4500
-            }
-        ],
-        "431FB96A": [
-            {
-                "value": 60000
-            }
-        ],
-        "A4BA30E6": [
-            {
-                "value": 6000
-            }
-        ],
-        "908BCCF0": [
-            {
-                "value": 60000
-            }
-        ],
-        "F6137D0C": [
-            {
-                "value": 6000
-            }
-        ],
-        "DE0241F0": [
-            {
-                "value": 60000
-            }
-        ],
-        "84ABBF47": [
-            {
-                "value": 4500
-            }
-        ],
-        "22CACBDD": [
-            {
-                "value": 90000
-            }
-        ],
-        "B6CD0A0A": [
-            {
-                "value": 6000
-            }
-        ],
-        "FF7D44C4": [
-            {
-                "value": 90000
-            }
-        ],
-        "944CFB1C": [
-            {
-                "value": 7500
-            }
-        ],
-        "7591330D": [
-            {
-                "value": 5400
-            }
-        ],
-        "3A80E3E9": [
-            {
-                "value": 150
-            }
-        ],
-        "46BEECC2": [
-            {
-                "value": 24000
-            }
-        ],
-        "1D79D9E7": [
-            {
-                "value": 4500
-            }
-        ],
-        "5F842810": [
-            {
-                "value": 3000
-            }
-        ],
-        "3A04239A": [
-            {
-                "value": 150
-            }
-        ],
-        "B5896377": [
-            {
-                "value": 15000
-            }
-        ],
-        "C47AE3C7": [
-            {
-                "value": 3000
-            }
-        ],
-        "F8D0D172": [
-            {
-                "value": 1500
-            }
-        ],
-        "975223D8": [
-            {
-                "value": 300
-            }
-        ],
-        "7F344B75": [
-            {
-                "value": 1500
-            }
-        ],
-        "86AB4D73": [
-            {
-                "value": 300
-            }
-        ],
-        "C60EB95D": [
-            {
-                "value": 1500
-            }
-        ],
-        "9D0C6293": [
-            {
-                "value": 300
-            }
-        ],
-        "6E4F46EA": [
-            {
-                "value": 1500
-            }
-        ],
-        "F3762540": [
-            {
-                "value": 300
-            }
-        ],
-        "850FEF19": [
-            {
-                "value": 1500
-            }
-        ],
-        "F5B56558": [
-            {
-                "value": 300
-            }
-        ],
-        "79CF8B1D": [
-            {
-                "value": 1500
-            }
-        ],
-        "4B3CEA33": [
-            {
-                "value": 300
-            }
-        ],
-        "B2C5F7B2": [
-            {
-                "value": 1500
-            }
-        ],
-        "77A76173": [
-            {
-                "value": 300
-            }
-        ],
-        "9F1FF856": [
-            {
-                "value": 1500
-            }
-        ],
-        "8F82649C": [
-            {
-                "value": 300
-            }
-        ],
-        "591D532C": [
-            {
-                "value": 190000
-            }
-        ],
-        "CCDD09E2": [
-            {
-                "value": 210000
-            }
-        ],
-        "59AC348C": [
-            {
-                "value": 230000
-            }
-        ],
-        "887C7D0A": [
-            {
-                "value": 250000
-            }
-        ],
-        "B2E8081": [
-            {
-                "value": 270000
-            }
-        ],
-        "1CD93600": [
-            {
-                "value": 300000
-            }
-        ],
-        "895C09A8": [
-            {
-                "value": 20000
-            }
-        ],
-        "DAA3AC36": [
-            {
-                "value": 22000
-            }
-        ],
-        "ECE150B1": [
-            {
-                "value": 24000
-            }
-        ],
-        "4AB38C54": [
-            {
-                "value": 26000
-            }
-        ],
-        "9CCDB08F": [
-            {
-                "value": 27000
-            }
-        ],
-        "6E0352FB": [
-            {
-                "value": 28000
-            }
-        ],
-        "8055F7A0": [
-            {
-                "value": 29000
-            }
-        ],
-        "19BFA26": [
-            {
-                "value": 30000
-            }
-        ],
-        "5717A51C": [
-            {
-                "value": 31000
-            }
-        ],
-        "74686A28": [
-            {
-                "value": 32000
-            }
-        ],
-        "4B3F17D6": [
-            {
-                "value": 33000
-            }
-        ],
-        "39C774E7": [
-            {
-                "value": 34000
-            }
-        ],
-        "2E9D5E93": [
-            {
-                "value": 35000
-            }
-        ],
-        "B394687B": [
-            {
-                "value": 35500
-            }
-        ],
-        "A1C8C4E8": [
-            {
-                "value": 36000
-            }
-        ],
-        "97A7B0A6": [
-            {
-                "value": 36500
-            }
-        ],
-        "85710C39": [
-            {
-                "value": 37000
-            }
-        ],
-        "6C98EE4": [
-            {
-                "value": 37500
-            }
-        ],
-        "F4EAEB27": [
-            {
-                "value": 38000
-            }
-        ],
-        "697FC652": [
-            {
-                "value": 39000
-            }
-        ],
-        "54319BB6": [
-            {
-                "value": 40000
-            }
-        ],
-        "B6AEE79A": [
-            {
-                "value": 18000
-            }
-        ],
-        "36F35FFA": [
-            {
-                "value": 200
-            }
-        ],
-        "4D81B7C6": [
+        "7B0BF054": [
             {
                 "value": 4000
             }
         ],
-        "D492595F": [
+        "FAE00D2E": [
+            {
+                "value": 2000
+            }
+        ],
+        "9E460B60": [
+            {
+                "value": 400
+            }
+        ],
+        "EA5FB888": [
+            {
+                "value": 70000
+            }
+        ],
+        "858F90D8": [
+            {
+                "value": 2000
+            }
+        ],
+        "F9153F6F": [
+            {
+                "value": 1000
+            }
+        ],
+        "ACEFBA1F": [
+            {
+                "value": 200
+            }
+        ],
+        "41675371": [
+            {
+                "value": 14000
+            }
+        ],
+        "1AE4822F": [
+            {
+                "value": 28000
+            }
+        ],
+        "6C64D2DB": [
+            {
+                "value": 70000
+            }
+        ],
+        "EC6CED50": [
+            {
+                "value": 2000
+            }
+        ],
+        "C9D49E2": [
+            {
+                "value": 1000
+            }
+        ],
+        "B10B05F4": [
+            {
+                "value": 200
+            }
+        ],
+        "83440CC4": [
             {
                 "value": 10000
             }
         ],
-        "D2322D21": [
+        "F5A8A787": [
             {
-                "value": 100000
+                "value": 548750
             }
         ],
-        "484081A9": [
+        "57DC1166": [
             {
-                "value": 1550000
+                "value": 687000
             }
         ],
-        "EB8991C": [
+        "E6EEEAB2": [
             {
-                "value": 500000
+                "value": 725000
             }
         ],
-        "60B9E834": [
+        "C36F85A3": [
             {
-                "value": 1125000
+                "value": 448500
             }
         ],
-        "C608CCFE": [
+        "89021079": [
             {
-                "value": 2000000
+                "value": 555000
             }
         ],
-        "50DA3B60": [
+        "B669909B": [
             {
-                "value": 25000
+                "value": 920000
             }
         ],
-        "CAAAEE25": [
+        "7A359759": [
             {
-                "value": 25000
+                "value": 237500
             }
         ],
-        "F099E7E5": [
+        "D24B1A19": [
             {
-                "value": 150000
+                "value": 262500
             }
         ],
-        "3A52B8D3": [
+        "F658B6AD": [
             {
-                "value": 207500
+                "value": 187500
             }
         ],
-        "6E1B2475": [
+        "EF08FC73": [
+            {
+                "value": 197500
+            }
+        ],
+        "F4F373A6": [
             {
                 "value": 250000
             }
         ],
-        "2FF450F6": [
+        "849E1CF5": [
             {
-                "value": 475000
+                "value": 325000
             }
         ],
-        "63BC98AA": [
+        "3466DA83": [
             {
-                "value": 342500
+                "value": 425000
             }
         ],
-        "F3F53087": [
+        "1EDAD023": [
             {
-                "value": 380000
+                "value": 409000
             }
         ],
-        "B11AC333": [
+        "1A0803E7": [
             {
-                "value": 500000
+                "value": 554500
             }
         ],
-        "1B5346D5": [
+        "9D07AAB5": [
             {
-                "value": 417500
+                "value": 709000
             }
         ],
-        "9AB16A12": [
+        "9BFFE194": [
             {
-                "value": 455000
+                "value": 707500
             }
         ],
-        "DA325210": [
+        "CA87EF06": [
             {
-                "value": 2500
+                "value": 275000
             }
         ],
-        "FDD0EC9D": [
+        "2E31D34B": [
             {
-                "value": 260000
+                "value": 400000
             }
         ],
-        "97E2FF6": [
+        "98C108E": [
             {
-                "value": 167500
+                "value": 600000
             }
         ],
-        "4F283A5C": [
+        "FA3FF81D": [
             {
-                "value": 397500
+                "value": 900000
             }
         ],
-        "A8D815E1": [
+        "6A4DF9B5": [
             {
-                "value": 75000
+                "value": 275000
             }
         ],
-        "A93081A5": [
+        "5E6FF573": [
             {
-                "value": 75000
+                "value": 450000
             }
         ],
-        "394D63CA": [
+        "49B82223": [
             {
-                "value": 130816
+                "value": -1772406241
             }
         ],
-        "6471FC3C": [
+        "830514BC": [
             {
-                "value": 1915200
+                "value": -1439820812
             }
         ],
-        "31F864F": [
+        "929C8BB3": [
             {
-                "value": 1440000
+                "value": 750000
             }
         ],
-        "817F9129": [
+        "670FCAF8": [
             {
-                "value": 395010
+                "value": 950000
             }
         ],
-        "C706E10B": [
+        "355A751F": [
             {
-                "value": 297000
+                "value": 450000
             }
         ],
-        "238F5545": [
+        "4EAAC658": [
             {
-                "value": 1053360
+                "value": 700000
             }
         ],
-        "A5C7CFBB": [
+        "A56EB39B": [
             {
-                "value": 792000
-            }
-        ],
-        "7E684E06": [
-            {
-                "value": 1532160
-            }
-        ],
-        "FDE637C7": [
-            {
-                "value": 1152000
-            }
-        ],
-        "507A0B76": [
-            {
-                "value": 2298240
-            }
-        ],
-        "89A03D09": [
-            {
-                "value": 1728000
-            }
-        ],
-        "D3F5EDD8": [
-            {
-                "value": 893760
-            }
-        ],
-        "531EFB34": [
-            {
-                "value": 672000
-            }
-        ],
-        "3DA93AC1": [
-            {
-                "value": 780000
-            }
-        ],
-        "6F87EF26": [
-            {
-                "value": 585000
-            }
-        ],
-        "8D0D5D42": [
-            {
-                "value": 2250000
-            }
-        ],
-        "CE685887": [
-            {
-                "value": 1687500
-            }
-        ],
-        "E3D31535": [
-            {
-                "value": -312295511
-            }
-        ],
-        "D7D5FD3B": [
-            {
-                "value": -1912017790
-            }
-        ],
-        "CA1061B0": [
-            {
-                "value": -1590337689
-            }
-        ],
-        "A92E2B4": [
-            {
-                "value": -1649536104
-            }
-        ],
-        "3CD0C72F": [
-            {
-                "value": 989294410
-            }
-        ],
-        "10B76F01": [
-            {
-                "value": 1180875963
-            }
-        ],
-        "3AF5C37D": [
-            {
-                "value": 682434785
-            }
-        ],
-        "63629456": [
-            {
-                "value": 941494461
-            }
-        ],
-        "3A32957": [
-            {
-                "value": 3.0
-            }
-        ],
-        "510AAE17": [
-            {
-                "value": 3.0
-            }
-        ],
-        "FEB829D9": [
-            {
-                "value": 30000
-            }
-        ],
-        "F4C18B94": [
-            {
-                "value": 2.0
-            }
-        ],
-        "42291054": [
-            {
-                "value": 2.0
-            }
-        ],
-        "EFD68C16": [
-            {
-                "value": 20000
-            }
-        ],
-        "457ADE10": [
-            {
-                "value": 3.0
-            }
-        ],
-        "92E262D0": [
-            {
-                "value": 3.0
-            }
-        ],
-        "408FDE92": [
-            {
-                "value": 30000
-            }
-        ],
-        "57C782A9": [
-            {
-                "value": 2.0
-            }
-        ],
-        "A52F0769": [
-            {
-                "value": 2.0
-            }
-        ],
-        "52DC832B": [
-            {
-                "value": 20000
+                "value": 700000
             }
         ]
     }
