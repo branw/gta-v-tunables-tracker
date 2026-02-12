@@ -17,7 +17,7 @@ tunables file for each platform:
 
 |Platform|`tunables.json`|Last Update|Number of Logged Updates|
 |-|-|-|-|
-|PC|[`tunables-pcros.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-pcros.json)|`2026-02-05T09-55-58`|[493](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-pcros.md)|
+|PC|[`tunables-pcros.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-pcros.json)|`2026-02-12T09-53-14`|[492](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-pcros.md)|
 |Xbox Series X|[`tunables-xboxsx.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxsx.json)|`2026-02-12T09-53-44`|[287](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxsx.md)|
 |Xbox One|[`tunables-xboxone.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xboxone.json)|`2026-02-12T09-53-38`|[278](https://github.com/branw/gta-v-tunables-tracker/blob/main/changelog-xboxone.md)|
 |Xbox 360|[`tunables-xbox360.json`](https://github.com/branw/gta-v-tunables-tracker/blob/main/tunables-xbox360.json)|`2023-09-06T08-20-18`|1[^1]|
