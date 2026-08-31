@@ -105499,3 +105499,14 @@
                                 'E6D06FB2': {0: {update: {'value': 6.0}}},
                                 'FEB829D9': {0: {update: {'value': 60000}}}}}}}
 ```
+## `2026-08-28T08-33-48` to `2026-08-31T08-36-48`
+
+```
+{update: {'tunables': {update: {'3437F472': {0: {update: {'value': 3.0}}},
+                                '3A32957': {0: {update: {'value': 2.0}}},
+                                '510AAE17': {0: {update: {'value': 2.0}}},
+                                '57BBF070': {0: {update: {'value': 5132}}},
+                                'E1E57034': {0: {update: {'value': 30000}}},
+                                'E6D06FB2': {0: {update: {'value': 3.0}}},
+                                'FEB829D9': {0: {update: {'value': 20000}}}}}}}
+```
